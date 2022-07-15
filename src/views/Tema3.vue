@@ -16,14 +16,14 @@
             )
             .bloque-texto-g__texto.p-4
               p.mb-0 Para apoyar a estas decisiones, que se basan en la información que se trae de las fuentes habilitadas, es primordial fomentar el desarrollo de la capacidad de análisis en las personas que definen las políticas, mecanismos y estrategias de seguimiento, evaluación y control. Aparte, se debe contar con herramientas que orienten el seguimiento, análisis,  presentación y publicación de información según sus ciclos de vida.
-          p.mt-4 Este proceso es complejo ya que tiene diferentes dimensiones ligadas a la extracción de información porque todas las empresas no procesan de la misma manera, no compran de la misma manera, no fabrican de la misma manera y no venden de la misma manera. La información puede aportar a la planeación estratégica en cuanto a que la comparación con los competidores influye en cómo se mueven los mercados y las empresas
+          p.mt-4 Este proceso es complejo ya que tiene diferentes dimensiones ligadas a la extracción de información porque todas las empresas no procesan de la misma manera, no compran de la misma manera, no fabrican de la misma manera y no venden de la misma manera. La información puede aportar a la planeación estratégica en cuanto a que la comparación con los competidores influye en cómo se mueven los mercados y las empresas.
         #t_3_1.titulo-segundo.color-acento-contenido
           h2 3.1  Tipos de información
         .row
           .col-lg-5
             img(data-aos="fade-right")(src='@/assets/curso/tema3/img2.png', alt='Texto que describa la imagen')
           .col-lg-7
-            p La información es un recurso que se recopila mediante códigos y datos de una situación específica, es ordenada en cierto tiempo y espacio con un propósito determinado, ayuda al aumento del conocimiento y disminuyen la incertidumbre, a través del tiempo la manera de acceder y almacenar la información ha cambiado, en la edad media la información se encontraba en las bibliotecas de los monasterios y para la edad moderna tras el invento de la imprenta se encontraba en libros y periódicos, sin embargo, en el siglo XX avanza y se recopila en los medios de comunicación como la radio, televisión y herramientas digitales que llevaron al desarrollo de la internet
+            p La información es un recurso que se recopila mediante códigos y datos de una situación específica, es ordenada en cierto tiempo y espacio con un propósito determinado, ayuda al aumento del conocimiento y disminuyen la incertidumbre, a través del tiempo la manera de acceder y almacenar la información ha cambiado, en la edad media la información se encontraba en las bibliotecas de los monasterios y para la edad moderna tras el invento de la imprenta se encontraba en libros y periódicos, sin embargo, en el siglo XX avanza y se recopila en los medios de comunicación como la radio, televisión y herramientas digitales que llevaron al desarrollo de la internet.
             p La información es utilizada para alcanzar los siguientes objetivos:
             ul.lista-ul.mt-4
               li 
@@ -68,7 +68,7 @@
 
                 h5.mt-4 El entorno remoto
 
-                p.mb-2.mt-4 Es aquel que la empresa tiene en cuenta para desarrollarse como lo son la información política, la sociedad, los cambios tecnológicos y la evolución económica
+                p.mb-2.mt-4 Es aquel que la empresa tiene en cuenta para desarrollarse como lo son la información política, la sociedad, los cambios tecnológicos y la evolución económica.
     p La información es un conjunto de datos que pueden presentarse en diferentes tipos, y puede utilizarse para diversas finalidades, sin embargo, su característica principal es transmitir un mensaje, por lo cual se puede clasificar en los siguientes tipos:
     .row
       .col-lg-3
@@ -90,7 +90,7 @@
             p Da cuenta de la normatividad proveniente de la legislación nacional e internacional.
           .tarjeta.color-secundario.p-5(titulo="Información cualitativa y general")
             h4 Información cualitativa y general
-            p Información cualitativa y general
+            p Es aquella relacionada con el entorno social, la cual permite mejorar la gestión en la empresa.
           .tarjeta.color-secundario.p-5(titulo="Información del entorno y de seguridad")
             h4 Información del entorno y de seguridad
             p Se aplica a las empresas donde su razón social interviene con el bienestar del medio ambiente.
@@ -147,7 +147,7 @@
       .col-lg-4.mt-3
         img(data-aos="fade-right")(src='@/assets/curso/tema3/img13.png', alt='Texto que describa la imagen')  
       .col-lg-8
-        p Existen bases de datos de empresas que contienen información de los clientes y posibles prospectos con su teléfono (fijo o móvil), nombre y apellido, preferencias, perfil en redes sociales, correo electrónico, y ubicación, también se pueden almacenar datos especiales, facturación y cuantificación de trabajadores, permitiendo usar estos datos como fuente inicial para la realización de campañas de marketing y caracterizar los clientes, con el fin de dar a conocer los productos o servicios, mensajería masiva, informar las promociones u ofertas del negocio, establecer una lista preferencial según características que tengan beneficios con añadidura, brindar muestras gratis de un nuevo producto o servicio, invitar y convocar a eventos, reuniones y/o talleres, generar información que aumente valor en la audiencia. Actualmente en el mundo empresarial y comercial, todo tiene que estar registrado y organizado, para poder mantenerse en el ritmo competitivo.        
+        p Existen bases de datos de empresas que contienen información de los clientes y posibles prospectos con su teléfono (fijo o móvil), nombre y apellido, preferencias, perfil en redes sociales, correo electrónico, y ubicación, también se pueden almacenar datos especiales, facturación y cuantificación de trabajadores, permitiendo usar estos datos como fuente inicial para la realización de campañas de <i>marketing</i> y caracterizar los clientes, con el fin de dar a conocer los productos o servicios, mensajería masiva, informar las promociones u ofertas del negocio, establecer una lista preferencial según características que tengan beneficios con añadidura, brindar muestras gratis de un nuevo producto o servicio, invitar y convocar a eventos, reuniones y/o talleres, generar información que aumente valor en la audiencia. Actualmente en el mundo empresarial y comercial, todo tiene que estar registrado y organizado, para poder mantenerse en el ritmo competitivo.        
     .row.mt-4
       .col-lg-8.mt-4
         p Las bases de datos no solo generan grandes facilidades, rapidez, oportunidades y actualización en la información, sino que aparte permiten una cantidad de funciones y mecanismos con un alto nivel de ventajas a favor, como por ejemplo, permitir el almacenamiento y la recuperación de la información necesaria en cualquier momento con base a tareas propuestas. En el contexto organizacional las bases de datos también aportan al monitoreo de los procesos de compra de clientes, a mantener el contacto con el comprador potencial, estableciendo una comunicación personalizada que le genere confianza al cliente y aplicar estrategias de marketing con mayor impacto.

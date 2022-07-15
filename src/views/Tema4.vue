@@ -18,7 +18,7 @@
       .col-lg-9
         .row
           .col-lg-9
-            p Así, la administración de riesgos que sea asignada previamente para este fin debería poder evaluar los beneficios potenciales de una oportunidad que podría generar sobre un riesgo identificado, cada actividad requiere de un análisis diferente y particular. Por ejemplo, los bancos evalúa.n a través del tiempo el riesgo crediticio, las compañías petroleras se concentran en el tema ambiental y los inversores analizan el tema financiero.
+            p Así, la administración de riesgos que sea asignada previamente para este fin debería poder evaluar los beneficios potenciales de una oportunidad que podría generar sobre un riesgo identificado, cada actividad requiere de un análisis diferente y particular. Por ejemplo, los bancos evalúan a través del tiempo el riesgo crediticio, las compañías petroleras se concentran en el tema ambiental y los inversores analizan el tema financiero.
           .col-lg-3
             img(data-aos="fade-left")(src='@/assets/curso/tema4/img3.png', alt='Texto que describa la imagen')
         p Existen riesgos naturales que provienen de la actividad empresarial y, por otro lado, hay riesgos inapreciables, por lo que el riesgo es considerado como: <strong>cualquier elemento que pueda ocasionar inseguridad, incertidumbre o duda dentro de la organización,</strong> por lo tanto, la administración de riesgos es un proceso cuya finalidad es reducir al máximo estos factores negativos como lo es la inseguridad, incertidumbre o duda, con el propósito de alcanzar un margen de equilibrio entre la rentabilidad, los objetivos de crecimiento y riesgos identificados que se asocian a la actividad.
@@ -54,18 +54,21 @@
                 h4.mt-5 Relacionamiento
                 p.mb-5 Sin realizar un plan de gestión de riesgos general no podríamos actuar adecuadamente, pero sin la existencia de una administración de riesgos no habría planeación, por cual se mejora la relación entre administración y gestión de riesgos.
               .carousel-item.p-4
+                h4.mt-5 Prevención
+                p.mb-5 La administración de riesgos debe realizar un análisis pertinente en todas las situaciones que generen incertidumbre en la organización y esta encomienda o recomienda la instrumentación de planes de impacto y realizar gestión de las herramientas necesarias y los recursos de prevención.
+                            
+              .carousel-item.p-4
                 h4.mt-5 Mejora continua 
                 p.mb-5 Aporta a la mejora continua, ya que con cada revisión y evaluación de los criterios de riesgos se pueden fortalecer y aportar a mejorar los procesos y controles existentes en la organización.
               .carousel-item.p-4
-                h4.mt-5 Posicionamiento
-                p.mb-5 Ubica positivamente a la empresa frente a sus diversos actores empresariales como son los proveedores, clientes, empleados, socios y la comunidad general al identificarse como una organización previsora y cuidadosa, aportando a un mejor posicionamiento.
-              .carousel-item.p-4
-                h4.mt-5 Prevención
-                p.mb-5 La administración de riesgos debe realizar un análisis pertinente en todas las situaciones que generen incertidumbre en la organización y esta encomienda o recomienda la instrumentación de planes de impacto y realizar gestión de las herramientas necesarias y los recursos de prevención.
-              .carousel-item.p-4
                 h4.mt-5 Rendimientos
                 p.mb-5 Incrementa los beneficios a corto plazo directamente en la organización al establecer las relaciones entre riesgos y rendimientos.
-                                                
+                                
+              .carousel-item.p-4
+                h4.mt-5 Posicionamiento
+                p.mb-5 Ubica positivamente a la empresa frente a sus diversos actores empresariales como son los proveedores, clientes, empleados, socios y la comunidad general al identificarse como una organización previsora y cuidadosa, aportando a un mejor posicionamiento.
+
+                              
             button.carousel-control-prev(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide='prev')
               span.carousel-control-prev-icon(aria-hidden='true')
               span.visually-hidden Previous

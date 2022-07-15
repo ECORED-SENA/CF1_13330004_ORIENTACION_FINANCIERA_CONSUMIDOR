@@ -102,10 +102,10 @@
               p <strong>Frecuentes:</strong>  son los que realizan compras repetitivas de manera constante por la necesidad de los servicios o productos. 
             li 
               i.fas.fa-angle-right
-              p <strong>Habitual:</strong>  son los que realizan compras regularmente porque están satisfechos, se deben atender de manera especial para aumentar el nivel de satisfacción, para cumplir con el objetivo de que conviertan en clientes frecuentes.
+              p <strong>Habitual:</strong>  son los que realizan compras regularmente porque están satisfechos, se deben atender de manera especial para aumentar el nivel de satisfacción, para cumplir con el objetivo que se conviertan en clientes frecuentes.
             li 
               i.fas.fa-angle-right
-              p <strong>Ocasional:</strong>   son aquellos que realizan compras de vez en cuando, realizado sus compras compras en periodos espaciados en el tiempo.
+              p <strong>Ocasional:</strong>   son aquellos que realizan compras de vez en cuando, realizado sus compras en periodos espaciados en el tiempo.
       .row(titulo="De acuerdo el volumen de compras")
         .col-md-3.mb-4.mb-md-0
           figure
@@ -126,7 +126,7 @@
     p Cada persona es un mundo diverso, único e irrepetible, sin embargo, para que las organizaciones puedan caracterizar a sus clientes, se deben dividir en grupos, sectores o incluso por afinidades, con el fin de focalizar su estrategia, analizando las características según su comportamiento o receptividad, las cuales se presentan en el siguiente recurso de aprendizaje:
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.color-acento-contenido.p-4
-        h5.text-center.mb-0 Según su comportamiento
+        h5.text-center.mb-0 Según su receptividad
 
         .row.justify-content-center.mb-3
           .col-11.mt-5
@@ -135,7 +135,7 @@
         p.text-center Tiene muchas dudas y no sabe que comprar.
       
       .tarjeta.color-acento-contenido.p-4
-        h5.text-center.mb-3 Según su comportamiento
+        h5.text-center.mb-3 Según su receptividad
 
         .row.justify-content-center.mb-3
           .col-11
@@ -144,7 +144,7 @@
         p.text-center.mb-4 Quién se cree más que el vendedor.
 
       .tarjeta.color-acento-contenido.p-4
-        h5.text-center.mb-0 Según su comportamiento
+        h5.text-center.mb-0 Según su receptividad
 
         .row.justify-content-center.mb-4
           .col-9.mt-4
@@ -152,7 +152,7 @@
         h5.text-center.mb-0.mt-4 Ocupado
         p.text-center.mb-4 Realiza varias cosas mientras realiza la compra.
       .tarjeta.color-acento-contenido.p-4
-        h5.text-center.mb-0 Según su comportamiento
+        h5.text-center.mb-0 Según su receptividad
 
         .row.justify-content-center.mb-4
           .col-7.mt-4
@@ -160,7 +160,7 @@
         h5.text-center.mb-0.mt-4 Amistoso
         p.text-center Quién normalmente se encuentra receptivo y pacifico.
       .tarjeta.color-acento-contenido.p-4
-        h5.text-center.mb-0 Según su comportamiento
+        h5.text-center.mb-0 Según su receptividad
 
         .row.justify-content-center.mb-4
           .col-9.mt-4
@@ -169,7 +169,7 @@
 
         p.text-center Quién utiliza la lástima para dominar, siempre se lamenta.
       .tarjeta.color-acento-contenido.p-4
-        h5.text-center.mb-0 Según su comportamiento
+        h5.text-center.mb-0 Según su receptividad
 
         .row.justify-content-center.mb-4
           .col-11.mt-4
@@ -178,7 +178,7 @@
 
         p.text-center Quién nunca tiene tiempo, todo es apurado.
       .tarjeta.color-acento-contenido.p-4
-        h5.text-center.mb-0 Según su comportamiento
+        h5.text-center.mb-0 Según su receptividad
 
         .row.justify-content-center.mb-4
           .col-9.mt-4
@@ -187,7 +187,7 @@
 
         p.text-center Quién necesita obtener algo, siempre quiere ganar.
       .tarjeta.color-acento-contenido.p-4
-        h5.text-center.mb-0 Según su comportamiento
+        h5.text-center.mb-0 Según su receptividad
 
         .row.justify-content-center.mb-4
           .col-7.mt-4
@@ -195,7 +195,7 @@
         h5.text-center.mb-0.mt-4 Visuales
         p.text-center Perciben sus necesidades a través de la vista.
       .tarjeta.color-acento-contenido.p-4
-        h5.text-center.mb-0 Según su comportamiento
+        h5.text-center.mb-0 Según su receptividad
 
         .row.justify-content-center.mb-4
           .col-12.mt-4
@@ -203,7 +203,7 @@
         h5.text-center.mb-0.mt-4 Auditivos
         p.text-center Perciben sus necesidades a través del oído.
       .tarjeta.color-acento-contenido.p-4
-        h5.text-center.mb-0 Según su comportamiento
+        h5.text-center.mb-0 Según su receptividad
 
         .row.justify-content-center.mb-4
           .col-9.mt-4

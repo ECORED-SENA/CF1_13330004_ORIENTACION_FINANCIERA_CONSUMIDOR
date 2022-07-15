@@ -49,7 +49,7 @@
         .row.justify-content-center
           .col-md-5.mb-4.mb-md-0.mt-4
             h5 Seguimiento
-            p.mt-4 Se debe contactar al cliente luego de adquirir el producto o servicio para consultar la experiencia que fortalece al cliente y motiva en continuar con la empresa, teniendo en cuenta las sugerencias o concejos ya que gran parte de las finanzas de un negocio se basa en los consumidores que se convierten en clientes y como táctica eficaz es ofrecer ofertas o descuentos.
+            p.mt-4 Se debe contactar al cliente luego de adquirir el producto o servicio para consultar la experiencia que fortalece al cliente y motiva en continuar con la empresa, teniendo en cuenta las sugerencias o consejos ya que gran parte de las finanzas de un negocio se basa en los consumidores que se convierten en clientes y como táctica eficaz es ofrecer ofertas o descuentos.
           .col-md-6.mt-4
             figure
               img(src='@/assets/curso/tema2/img6.png', alt='Texto que describa la imagen')
@@ -75,28 +75,28 @@
                 img(src='@/assets/curso/tema2/img9.svg', alt='Texto que describa la imagen')
 
             .tarjeta.color-acento-botones.p-3(x="28%" y="18.8%" numero="+")
-              .h5.mb-0 Agradecimiento: 
-              p es importante agradecer al cliente por haber aceptado esta entrevista y demostrar la importancia que es para nuestra empresa, hasta romper el hielo, realizando preguntas sensibles de la empresa del cliente, así refleja el interés que se tiene para brindar una solución a su requerimiento inmediato.
+              .h5 Agradecimiento 
+              p Es importante agradecer al cliente por haber aceptado esta entrevista y demostrar la importancia que es para nuestra empresa, hasta romper el hielo, realizando preguntas sensibles de la empresa del cliente, así refleja el interés que se tiene para brindar una solución a su requerimiento inmediato.
             
             .tarjeta.color-acento-botones.p-3(x="43%" y="34%" numero="+")
-              .h5.mb-0 Propuesta:
-              p para tratar de cautivar al cliente se debe realizar una propuesta o un resumen sin compromiso, con base a la conversación y finalidad de la entrevista, buscando que se evalué a corto plazo.
+              .h5 Propuesta
+              p Para tratar de cautivar al cliente se debe realizar una propuesta o un resumen sin compromiso, con base a la conversación y finalidad de la entrevista, buscando que se evalúe a corto plazo.
             
             .tarjeta.color-acento-botones.p-3(x="46.5%" y="69%" numero="+")
-              .h5.mb-0 Contacto: 
-              p una vez entregue la consolidación de esa propuesta, se debe contactar al cliente para obtener la respuesta, se recomienda casi siempre de que se realice esta llamada 48 horas después de la entrevista.
+              .h5 Contacto
+              p Una vez entregue la consolidación de esa propuesta, se debe contactar al cliente para obtener la respuesta, se recomienda casi siempre de que se realice esta llamada 48 horas después de la entrevista.
             .tarjeta.color-acento-botones.p-3(x="52.7%" y="63%" numero="+")
-              .h5.mb-0 Contexto: 
-              p en el proceso de la presentación acerca de su empresa y a medida que se está obteniendo información de la empresa se incluye poco a poco el servicio o producto a ofrecer, teniendo en cuenta que ese encuentro no debe alargarse, procurando ser concreto y preciso, porque el cliente generalmente no tiene tiempo o peor aún, esta entrevista se vuelve muy aburrida llegando a perder el interés o la atención del cliente.
+              .h5 Contexto 
+              p En el proceso de la presentación acerca de su empresa y a medida que se está obteniendo información de la empresa se incluye poco a poco el servicio o producto a ofrecer, teniendo en cuenta que ese encuentro no debe alargarse, procurando ser concreto y preciso, porque el cliente generalmente no tiene tiempo o peor aún, esta entrevista se vuelve muy aburrida llegando a perder el interés o la atención del cliente.
             .tarjeta.color-acento-botones.p-3(x="56%" y="3%" numero="+")
-              .h5.mb-0 Puntualidad: 
-              p este aspecto es muy importante y por lo cual debes asistir 5 minutos antes de la cita.
+              .h5 Puntualidad 
+              p Este aspecto es muy importante y por lo cual debes asistir 5 minutos antes de la cita.
             .tarjeta.color-acento-botones.p-3(x="61%" y="31.5%" numero="+")
-              .h5.mb-0 Saludo: 
-              p es importante saludar amablemente a todos los miembros de la empresa que se crucen en el camino, reflejando simpatía, sabiendo manejar los limites y sin exagerar, tenga presente que hoy en día este tipo de entrevistas se dan por formalismo. 
+              .h5 Saludo 
+              p Es importante saludar amablemente a todos los miembros de la empresa que se crucen en el camino, reflejando simpatía, sabiendo manejar los límites y sin exagerar, tenga presente que hoy en día este tipo de entrevistas se dan por formalismo. 
             .tarjeta.color-acento-botones.p-3(x="82%" y="35%" numero="+")
-              .h5.mb-0 Presentación personal: 
-              p debes presentarte con ropa adecuada para la ocasión, demuestra un impacto positivo al inicio de una entrevista, casualmente los clientes son muy visuales y desde el momento que se inicia el encuentro, este aspecto es el primero que se evalúa, de hecho, si no se brinda confianza desde la presentación, los clientes van descartando la oferta desde el inicio, manifestando un desinterés total.
+              .h5 Presentación personal 
+              p Debes presentarte con ropa adecuada para la ocasión, demuestra un impacto positivo al inicio de una entrevista, casualmente los clientes son muy visuales y desde el momento que se inicia el encuentro, este aspecto es el primero que se evalúa, de hecho, si no se brinda confianza desde la presentación, los clientes van descartando la oferta desde el inicio, manifestando un desinterés total.
       separador                                                     
     #t_2_2.titulo-segundo.color-acento-contenido
       h2 2.2  Protocolos
@@ -109,32 +109,32 @@
               figure
                 img(src='@/assets/curso/tema2/img10.png', alt='Texto que describa la imagen')
             .col-md-8
-              p.mt-4 es indispensable demostrar alegría en el momento de que se negocia un producto o servicio, nadie quiere tratar con personas deprimidas, amargadas, ni desanimadas, las grandes transacciones no se hacen por lástima teniendo en cuenta que este cliente va a invertir unos recursos en la empresa
+              p.mt-4 Es indispensable demostrar alegría en el momento de que se negocia un producto o servicio, nadie quiere tratar con personas deprimidas, amargadas, ni desanimadas, las grandes transacciones no se hacen por lástima teniendo en cuenta que este cliente va a invertir unos recursos en la empresa.
           
           .row(numero="2" titulo="Mirar a los ojos")
             .col-md-4.mb-4.mb-md-0
               figure
                 img(src='@/assets/curso/tema2/img11.png', alt='Texto que describa la imagen')
             .col-md-8
-              p.mt-4 un truco para mantener la mirada fija en la otra persona es no mirar sus ojos específicamente sino tener la mirada fija entre sus cejas, no bailando de lado a lado ya que reflejamos nervios o peor aún, proyectamos miedo.
+              p.mt-4 Un truco para mantener la mirada fija en la otra persona es no mirar sus ojos específicamente sino tener la mirada fija entre sus cejas, no bailando de lado a lado ya que reflejamos nervios o peor aún, proyectamos miedo.
           .row(numero="3" titulo="Ensayos previos")
             .col-md-4.mb-4.mb-md-0
               figure
                 img(src='@/assets/curso/tema2/img12.png', alt='Texto que describa la imagen')
             .col-md-8
-              p.mt-4 la práctica hace al maestro, un día antes ensaya varias veces como presentar la  propuesta, buscando reflejar seguridad,  porque finalmente esto es lo que va a evaluar el cliente. Si es posible grabarse haciendo la propuesta, para luego analizar la forma como se presenta el producto o servicio, la postura corporal, los además, gestos, muletillas,  obviamente sin llegar a los límites de la crítica sino desde una mirada más bien constructiva.
+              p.mt-4 La práctica hace al maestro, un día antes ensaya varias veces como presentar la  propuesta, buscando reflejar seguridad,  porque finalmente esto es lo que va a evaluar el cliente. Si es posible grabarse haciendo la propuesta, para luego analizar la forma como se presenta el producto o servicio, la postura corporal, los además, gestos, muletillas,  obviamente sin llegar a los límites de la crítica sino desde una mirada más bien constructiva.
           .row(numero="4" titulo="Recrear la entrevista")
             .col-md-4.mb-4.mb-md-0
               figure
                 img(src='@/assets/curso/tema2/img13.png', alt='Texto que describa la imagen')
             .col-md-8
-              p.mt-4 con la finalidad de no cometer errores básicos en el momento que llegue el nerviosismo o miedo, se debe recordar el ensayo previo y aplicar las conclusiones evaluadas. En el peor de los casos tratar de olvidar esos nervios porque queda en blanco hasta llegar al punto de enredar la lengua al momento de hablar. La solución es olvidar esos nervios y tratar de concentrarse más, si es necesario respirar o sonreír para obviarlos. 
+              p.mt-4 Con la finalidad de no cometer errores básicos en el momento que llegue el nerviosismo o miedo, se debe recordar el ensayo previo y aplicar las conclusiones evaluadas. En el peor de los casos tratar de olvidar esos nervios porque queda en blanco hasta llegar al punto de enredar la lengua al momento de hablar. La solución es olvidar esos nervios y tratar de concentrarse más, si es necesario respirar o sonreír para obviarlos. 
           .row(numero="5" titulo="Halagar al cliente")
             .col-md-4.mb-4.mb-md-0
               figure
                 img(src='@/assets/curso/tema2/img14.png', alt='Texto que describa la imagen')
             .col-md-8
-              p.mt-4 en la presentación de manera cortés puede realizar halagos, darle la mano o tener muestras respetuosas de confianza, demuestra seguridad y tranquilidad llegando al punto de crear un vínculo directo en la empresa.
+              p.mt-4 En la presentación de manera cortés puede realizar halagos, darle la mano o tener muestras respetuosas de confianza, demuestra seguridad y tranquilidad llegando al punto de crear un vínculo directo en la empresa.
     separador    
     #t_2_3.titulo-segundo.color-acento-contenido
       h2 2.3  Prospección de clientes    

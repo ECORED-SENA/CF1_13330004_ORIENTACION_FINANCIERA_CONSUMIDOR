@@ -7,7 +7,7 @@
         span.colspan 5
       h1 Normas de seguridad y salud en el trabajo  
     .row.bg3
-      p Aunque en las empresas se deben garantizar el bienestar de los trabajadores, es innegable que la principal razón por la que se implementa la seguridad y salud en el trabajo es por cumplir el requisito legal,  por lo tanto, es importante identificar la normatividad vigente, que regula la prevención de las lesiones y enfermedades causadas por las condiciones de trabajo, y de la protección y promoción de la salud de los trabajadores, además del mantenimiento del bienestar físico, mental y social de los trabajadores en todas                                             
+      p Aunque en las empresas se deben garantizar el bienestar de los trabajadores, es innegable que la principal razón por la que se implementa la seguridad y salud en el trabajo es por cumplir el requisito legal,  por lo tanto, es importante identificar la normatividad vigente, que regula la prevención de las lesiones y enfermedades causadas por las condiciones de trabajo, y de la protección y promoción de la salud de los trabajadores, además del mantenimiento del bienestar físico, mental y social de los trabajadores en todas las ocupaciones.                                             
       .row.justify-content-center
         .col-lg-10
           .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5(data-aos="fade-up")
@@ -70,13 +70,13 @@
                 i.fas.fa-angle-right
                 h5 Decreto 1507
 
-            p Entra a regir el manual único para la calificación de la perdida de la capacidad laboral u ocupacional.
+            p Entra a regir el manual único para la calificación de la pérdida de la capacidad laboral u ocupacional.
             ul.lista-ul.mt-4
               li 
                 i.fas.fa-angle-right
                 h5 Decreto 1477
 
-            p En este se establece la tabla de enfermedades laborales, permitiendo la identificación de agentes de riesgo para facilidad de prevención de enfermedades en las actividades laborales y  el nombramiento de las enfermedades para determinar el diagnóstico médico a los trabajadores afectados.
+            p En este se establece la tabla de enfermedades laborales, permitiendo la identificación de agentes de riesgo para facilitar la de prevención de enfermedades en las actividades laborales y  el nombramiento de las enfermedades para determinar el diagnóstico médico a los trabajadores afectados.
         .row.justify-content-center.mt-5.mb-5(titulo="2015")
           .col-md-3.mb-4.mb-md-0
             figure
@@ -84,7 +84,7 @@
           .col-md-8
             h5 Decreto 1072
 
-            p.mt-4 En este se expide el decreto único reglamentario del sector del trabajo, donde se fórmula y adoptan las políticas, planes generales, programas y proyectos para el trabajo, el respeto de los derechos fundamentales, las garantías de los trabajadores, el fortalecimiento, promoción y protección de las actividades de la economía solidaria y el trabajo decente.
+            p.mt-4 En este se expide el decreto único reglamentario del sector del trabajo, donde se formulan y adoptan las políticas, planes generales, programas y proyectos para el trabajo, el respeto de los derechos fundamentales, las garantías de los trabajadores, el fortalecimiento, promoción y protección de las actividades de la economía solidaria y el trabajo decente.
         
         .row.justify-content-center.mt-5.mb-5(titulo="2016")
           .col-md-5.mb-4.mb-md-0
@@ -143,7 +143,7 @@
       h2 5.2  Aplicación de la norma en seguridad en el trabajo y el ambiente    
     .row
       .col-lg-4
-        p Con los sistemas de gestión ambiental y gestión en la seguridad y salud en el trabajo, se busca garantizar la mejora de la calidad de los procesos, tanto operativos, como administrativos; de igual forma, se pueden disminuir las pérdidas por la inadecuada ejecución de los procesos. Esta estrategia es acogida por las organizaciones que quieran alcanzar un alto nivel de protección del medio ambiente en el marco de un desarrollo sostenible y se construyen con base en acciones medioambientales y herramientas de gestión que interaccionan entre sí para conseguir un objetivo claramente definido: protección medioambiental
+        p Con los sistemas de gestión ambiental y gestión en la seguridad y salud en el trabajo, se busca garantizar la mejora de la calidad de los procesos, tanto operativos, como administrativos; de igual forma, se pueden disminuir las pérdidas por la inadecuada ejecución de los procesos. Esta estrategia es acogida por las organizaciones que quieran alcanzar un alto nivel de protección del medio ambiente en el marco de un desarrollo sostenible y se construyen con base en acciones medioambientales y herramientas de gestión que interaccionan entre sí para conseguir un objetivo claramente definido: protección medioambiental.
       .col-lg-4
         img(src='@/assets/curso/tema5/img10.png', alt='Texto que describa la imagen')
 
@@ -160,7 +160,7 @@
       .col-lg-10
         .bloque-texto-c.color-secundario.p-4
           i.fas.fa-quote-right
-          h4.mb-2 la mejora continua, la prevención y control de la contaminación y el compromiso de cumplir la legislación ambiental relevante y los compromisos adquiridos para la protección del medio ambiente. Esta política se convierte en uno de los requisitos primordiales para la implementación de un sistema de gestión ambiental.
+          h4.mb-2 La mejora continua, la prevención y control de la contaminación y el compromiso de cumplir la legislación ambiental relevante y los compromisos adquiridos para la protección del medio ambiente. Esta política se convierte en uno de los requisitos primordiales para la implementación de un sistema de gestión ambiental.
         p.mt-4 Estos sistemas se conforman por una estructura organizativa en la que se planifican actividades, responsabilidades, prácticas y recursos para desarrollar las actividades, manteniendo al día los compromisos en materia de protección ambiental que suscribe una empresa.  
 
   
