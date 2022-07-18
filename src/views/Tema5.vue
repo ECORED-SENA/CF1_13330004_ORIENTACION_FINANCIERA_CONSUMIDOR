@@ -76,7 +76,7 @@
                 i.fas.fa-angle-right
                 h5 Decreto 1477
 
-            p En este se establece la tabla de enfermedades laborales, permitiendo la identificación de agentes de riesgo para facilitar la de prevención de enfermedades en las actividades laborales y  el nombramiento de las enfermedades para determinar el diagnóstico médico a los trabajadores afectados.
+            p En este se establece la tabla de enfermedades laborales, permitiendo la identificación de agentes de riesgo para facilitar la prevención de enfermedades en las actividades laborales y  el nombramiento de las enfermedades para determinar el diagnóstico médico a los trabajadores afectados.
         .row.justify-content-center.mt-5.mb-5(titulo="2015")
           .col-md-3.mb-4.mb-md-0
             figure

@@ -150,7 +150,7 @@
         p Existen bases de datos de empresas que contienen información de los clientes y posibles prospectos con su teléfono (fijo o móvil), nombre y apellido, preferencias, perfil en redes sociales, correo electrónico, y ubicación, también se pueden almacenar datos especiales, facturación y cuantificación de trabajadores, permitiendo usar estos datos como fuente inicial para la realización de campañas de <i>marketing</i> y caracterizar los clientes, con el fin de dar a conocer los productos o servicios, mensajería masiva, informar las promociones u ofertas del negocio, establecer una lista preferencial según características que tengan beneficios con añadidura, brindar muestras gratis de un nuevo producto o servicio, invitar y convocar a eventos, reuniones y/o talleres, generar información que aumente valor en la audiencia. Actualmente en el mundo empresarial y comercial, todo tiene que estar registrado y organizado, para poder mantenerse en el ritmo competitivo.        
     .row.mt-4
       .col-lg-8.mt-4
-        p Las bases de datos no solo generan grandes facilidades, rapidez, oportunidades y actualización en la información, sino que aparte permiten una cantidad de funciones y mecanismos con un alto nivel de ventajas a favor, como por ejemplo, permitir el almacenamiento y la recuperación de la información necesaria en cualquier momento con base a tareas propuestas. En el contexto organizacional las bases de datos también aportan al monitoreo de los procesos de compra de clientes, a mantener el contacto con el comprador potencial, estableciendo una comunicación personalizada que le genere confianza al cliente y aplicar estrategias de marketing con mayor impacto.
+        p Las bases de datos no solo generan grandes facilidades, rapidez, oportunidades y actualización en la información, sino que aparte permiten una cantidad de funciones y mecanismos con un alto nivel de ventajas a favor, como por ejemplo, permitir el almacenamiento y la recuperación de la información necesaria en cualquier momento con base a tareas propuestas. En el contexto organizacional las bases de datos también aportan al monitoreo de los procesos de compra de clientes, a mantener el contacto con el comprador potencial, estableciendo una comunicación personalizada que le genere confianza al cliente y aplicar estrategias de <i>marketing</i> con mayor impacto.
       .col-lg-4
         img(data-aos="fade-left")(src='@/assets/curso/tema3/img14.png', alt='Texto que describa la imagen')  
     p.mt-5 Tener informatizada la base de datos tiene varias ventajas para las empresas, a continuación, se mencionan algunas de ellas:
@@ -175,7 +175,7 @@
         .col-md-9
           p.mb-0 Cuando se tiene la base de datos informatizada es poca la posibilidad de errores y es difícil que se traspapelen pedidos, ni que se mezclen con otros, o que se pierda la información, aportando a la satisfacción de los clientes y reducción del número de quejas.
           p Con las bases de datos, es posible  detectar errores, inconsistencias, duplicidades en los datos y brindar soluciones más oportunas.
-      .row(titulo="Campañas de marketing")
+      .row(titulo="Campañas de <i>marketing</i>")
         .col-md-3.mb-4.mb-md-0
           figure
             img(src='@/assets/curso/tema3/img19.png', alt='Texto que describa la imagen')
