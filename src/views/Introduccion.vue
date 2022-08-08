@@ -5,7 +5,7 @@
   
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span
+        span.colori
           i.fas.fa-info
       h1 Introducción
     p En este componente de formación se abordarán los conceptos básicos que permitirán identificar la evaluación del cliente, técnicas de venta, gestión de la información, normas de seguridad y salud en el trabajo.

@@ -17,12 +17,13 @@
             .bloque-texto-g__texto.p-4
               p.mb-0 Para apoyar a estas decisiones, que se basan en la información que se trae de las fuentes habilitadas, es primordial fomentar el desarrollo de la capacidad de análisis en las personas que definen las políticas, mecanismos y estrategias de seguimiento, evaluación y control. Aparte, se debe contar con herramientas que orienten el seguimiento, análisis,  presentación y publicación de información según sus ciclos de vida.
           p.mt-4 Este proceso es complejo ya que tiene diferentes dimensiones ligadas a la extracción de información porque todas las empresas no procesan de la misma manera, no compran de la misma manera, no fabrican de la misma manera y no venden de la misma manera. La información puede aportar a la planeación estratégica en cuanto a que la comparación con los competidores influye en cómo se mueven los mercados y las empresas.
+        separador
         #t_3_1.titulo-segundo.color-acento-contenido
           h2 3.1  Tipos de información
         .row
           .col-lg-5
             img(data-aos="fade-right")(src='@/assets/curso/tema3/img2.png', alt='Texto que describa la imagen')
-          .col-lg-7
+          .col-lg-7.mt-2
             p La información es un recurso que se recopila mediante códigos y datos de una situación específica, es ordenada en cierto tiempo y espacio con un propósito determinado, ayuda al aumento del conocimiento y disminuyen la incertidumbre, a través del tiempo la manera de acceder y almacenar la información ha cambiado, en la edad media la información se encontraba en las bibliotecas de los monasterios y para la edad moderna tras el invento de la imprenta se encontraba en libros y periódicos, sin embargo, en el siglo XX avanza y se recopila en los medios de comunicación como la radio, televisión y herramientas digitales que llevaron al desarrollo de la internet.
             p La información es utilizada para alcanzar los siguientes objetivos:
             ul.lista-ul.mt-4
@@ -73,7 +74,7 @@
     .row
       .col-lg-3
         img(data-aos="fade-right")(src='@/assets/curso/tema3/img6.png', alt='Texto que describa la imagen')
-      .col-lg-9
+      .col-lg-9.mt-2
         TabsA.color-secundario.mb-5
 
           .tarjeta.color-secundario.p-5(titulo="La información externa")
@@ -104,7 +105,7 @@
             p La recolección de información requiere la utilización de varios métodos e instrumentos, con el fin de obtener la información acorde a la finalidad, objetivo o interés. En toda búsqueda de información, se debe responder a incógnitas esenciales, que de alguna forma permitan evaluar los resultados y, lo más importante, que con los datos obtenidos previamente, pueda adelantarse a futuros problemas o inconvenientes, anticipando las probabilidades. Estos métodos son de gran utilidad para que la empresa pueda avanzar y mejorar su funcionamiento con la nueva información obtenida.
           .col-lg-3
             img(src='@/assets/curso/tema3/img7.png', alt='Texto que describa la imagen')
-        p De modo que la recopilación y recepción de datos hace posible que la empresa u organización tenga una visión mucho más precisa y detallada sobre cualquier información que esté buscando para la operación y utilización de esta. Hay muchas maneras de conseguir información, pero los métodos de recolección de información que utilice la empresa dependen de elementos como la estrategia, el tipo de información que quiera conseguir y dónde puede buscarla. 
+        p.mt-2 De modo que la recopilación y recepción de datos hace posible que la empresa u organización tenga una visión mucho más precisa y detallada sobre cualquier información que esté buscando para la operación y utilización de esta. Hay muchas maneras de conseguir información, pero los métodos de recolección de información que utilice la empresa dependen de elementos como la estrategia, el tipo de información que quiera conseguir y dónde puede buscarla. 
 
       .col-lg-3
         img(data-aos="fade-left")(src='@/assets/curso/tema3/img8.png', alt='Texto que describa la imagen')
@@ -113,28 +114,28 @@
       SlyderA(tipo="b")
         .row.justify-content-center
           .col-md-5.mb-4.mb-md-0.mt-4
-            h5 La observación
+            h4 La observación
             p.mb-0.mt-4 Es el método que se utiliza visualmente mediante un sistema para captar alguna situación determinada.
           .col-md-6.mt-4
             figure
               img(src='@/assets/curso/tema3/img9.png', alt='Texto que describa la imagen')
         .row.justify-content-center
           .col-md-5.mb-4.mb-md-0.mt-4
-            h5 La entrevista
+            h4 La entrevista
             p.mb-0.mt-4 Es la información captada mediante un encuentro entre dos o más participantes, la cual al finalizar se recopila por medio de un informe o resumen. 
           .col-md-6.mt-4
             figure
               img(src='@/assets/curso/tema3/img10.png', alt='Texto que describa la imagen')  
         .row.justify-content-center
           .col-md-5.mb-4.mb-md-0.mt-4
-            h5 La encuesta
+            h4 La encuesta
             p.mb-0.mt-4 Es un instrumento mediante el cual se pretende recopilar información por medio de preguntas abiertas, cerradas o mixtas que va enfocada a un determinado grupo de personas, esta puede ser por medio presencial o virtual. 
           .col-md-6.mt-4
             figure
               img(src='@/assets/curso/tema3/img11.png', alt='Texto que describa la imagen')  
         .row.justify-content-center
           .col-md-5.mb-4.mb-md-0.mt-4
-            h5 La recopilación de datos
+            h4 La recopilación de datos
             p.mb-0.mt-4 Este se basa en recopilar información en material ya existente, o estudios realizados, por ejemplo, biografías, tesis, libros, entre otros.
           .col-md-6.mt-4
             figure
@@ -146,12 +147,12 @@
     .row
       .col-lg-4.mt-3
         img(data-aos="fade-right")(src='@/assets/curso/tema3/img13.png', alt='Texto que describa la imagen')  
-      .col-lg-8
+      .col-lg-8.mt-2
         p Existen bases de datos de empresas que contienen información de los clientes y posibles prospectos con su teléfono (fijo o móvil), nombre y apellido, preferencias, perfil en redes sociales, correo electrónico, y ubicación, también se pueden almacenar datos especiales, facturación y cuantificación de trabajadores, permitiendo usar estos datos como fuente inicial para la realización de campañas de <i>marketing</i> y caracterizar los clientes, con el fin de dar a conocer los productos o servicios, mensajería masiva, informar las promociones u ofertas del negocio, establecer una lista preferencial según características que tengan beneficios con añadidura, brindar muestras gratis de un nuevo producto o servicio, invitar y convocar a eventos, reuniones y/o talleres, generar información que aumente valor en la audiencia. Actualmente en el mundo empresarial y comercial, todo tiene que estar registrado y organizado, para poder mantenerse en el ritmo competitivo.        
-    .row.mt-4
-      .col-lg-8.mt-4
+    .row.mt-2
+      .col-lg-8.mt-2.bora
         p Las bases de datos no solo generan grandes facilidades, rapidez, oportunidades y actualización en la información, sino que aparte permiten una cantidad de funciones y mecanismos con un alto nivel de ventajas a favor, como por ejemplo, permitir el almacenamiento y la recuperación de la información necesaria en cualquier momento con base a tareas propuestas. En el contexto organizacional las bases de datos también aportan al monitoreo de los procesos de compra de clientes, a mantener el contacto con el comprador potencial, estableciendo una comunicación personalizada que le genere confianza al cliente y aplicar estrategias de <i>marketing</i> con mayor impacto.
-      .col-lg-4
+      .col-lg-4.mt-4
         img(data-aos="fade-left")(src='@/assets/curso/tema3/img14.png', alt='Texto que describa la imagen')  
     p.mt-5 Tener informatizada la base de datos tiene varias ventajas para las empresas, a continuación, se mencionan algunas de ellas:
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
@@ -192,12 +193,19 @@
       h2 3.4  Ciclo vital de los documentos         
     p Consiste en las diversas fases por las que debe atravesar la documentación interna o externa de una empresa desde su producción, recepción, conservación, protección hasta su eliminación total del archivo.
     p A continuación, se definen las tres fases de archivo, dependiendo de su característica o tipo:
+
     .row.mb-5
       .col-sm-6.col-xl-4.mb-4.mb-xl-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
-            .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema3/img21.svg')})`}")
+            .tarjeta-flip__img
+              .row.justify-content-center
+                .col-lg-10.mt-4
+                  img(src='@/assets/curso/fondos/1.svg', alt='Texto que describa la imagen')
+              .row.justify-content-center
+                .col-lg-8
+                  h4.mt-3.text-center Archivo de gestión
             .tarjeta-flip__contenido.p-5.p-xl-5
               h4.text-center.mt-5 Archivo de gestión
               p.text-center.mb-5 Es el archivo de la oficina productora que reúne su documentación en trámite o que se encuentra en proceso, la que se somete a continuo uso y la que se consulta administrativamente.
@@ -206,7 +214,13 @@
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
-            .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema3/img22.svg')})`}")
+            .tarjeta-flip__img
+              .row.justify-content-center
+                .col-lg-7.mt-4
+                  img(src='@/assets/curso/fondos/2.svg', alt='Texto que describa la imagen')
+              .row.justify-content-center
+                .col-lg-8
+                  h4.mt-3.text-center Archivo central
             .tarjeta-flip__contenido.p-5.p-xl-5
               h4.text-center.mt-5 Archivo central
               p.text-center.mb-5 Unidad administrativa que cumple con la coordinación y control en el funcionamiento de los archivos de gestión, la cual concentra los documentos transferidos por los mismos una vez finaliza el trámite y cuando su consulta no es constante.
@@ -214,9 +228,13 @@
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
-            .row
-              .col-lg-8
-                .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema3/img23.svg')})`}")
+            .tarjeta-flip__img
+              .row.justify-content-center
+                .col-lg-8.mt-4
+                  img(src='@/assets/curso/fondos/3.svg', alt='Texto que describa la imagen')
+              .row.justify-content-center
+                .col-lg-8
+                  h4.mt-3.text-center Archivo histórico
             .tarjeta-flip__contenido.p-5.p-xl-5
               h4.text-center.mt-5 Archivo histórico
               p.text-center.mb-5 Es el archivo en el cual se transfiere del archivo central o también del archivo de gestión los documentos que por su funcionalidad se deben conservar permanentemente dado su valor histórico.
@@ -225,11 +243,11 @@
       .col-lg-3
         img(src='@/assets/curso/tema3/img24.png', alt='Texto que describa la imagen')
 
-      .col-lg-9
+      .col-lg-9.mt-2
         p Es muy importante que se tenga presente que el ciclo vital del documento es uno de los principios y finalidades en los que se sustenta y soporta la gestión documental, se debe tener presente que el documento puede pasar por un periodo determinado sin ser trasladado por cada uno de los archivos, esto depende del tipo de documento, hay documentos que deben conservarse por toda la vida jurídica de la empresa. Cuando el documento es digitalizado se puede gestionar de una manera más ágil en todo su ciclo vital, el cual se representa a continuación:
     .row.justify-content-center
       .col-lg-8
-        img(data-aos="zoom-in")(src='@/assets/curso/tema3/img25.svg', alt='Texto que describa la imagen')
+        img(data-aos="zoom-in")(src='@/assets/curso/fondos/4.svg', alt='Texto que describa la imagen')
     separador
     #t_3_5.titulo-segundo.color-acento-contenido
       h2 3.5  Recepción y procesamiento       
@@ -240,7 +258,7 @@
         .row
           .col-lg-4
             img(src='@/assets/curso/tema3/img27.png', alt='Texto que describa la imagen')
-          .col-lg-8
+          .col-lg-8.mt-2
             p Uno de los casos donde una empresa pierde tiempo es buscando documentos, esto perjudica la productividad de la empresa y puede transmitir una mala impresión, reflejar improvisación y falta de organización de cara al cliente o comprador, la situación se agrava en el peor de los casos, cuando los archivos se pierden o extravían, dando cuenta de la falta de implementación de protocolos de recepción al momento de organizar la documentación.
             p Con la finalidad de controlar adecuadamente la documentación, es importante establecer protocolos para crear, guardar, clasificar, catalogar y gestionar todos los archivos de la empresa, esto economiza tiempo al organizar los procesos y garantizar que ningún documento sea extraviado, lo cual es importante en los procesos administrativos y por ende para la empresa.
         p Inicialmente, es claro entender que, con una estructura pequeña en la planta de personal, todos los colaboradores deben conocer e implementar el protocolo de recepción de documentos, ya que muchas veces por temas financieros se dificulta designar una persona para esta función específica con un turno integral, para el protocolo de recepción de documentos se recomienda incluir los siguientes procesos:
@@ -339,4 +357,8 @@ export default {
   background-color:#D3E5E0!important
 .a3
   background-color:#F4F9F7!important
+.tarjeta--boton.color-primario.p-4
+  background-color: #92BFB1
+.tarjeta--boton.color-primario.p-4:hover
+  background-color: rgba(146,191,1777,0.5)
 </style>

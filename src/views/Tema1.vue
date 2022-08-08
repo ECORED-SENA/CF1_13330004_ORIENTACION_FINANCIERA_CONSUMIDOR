@@ -20,34 +20,36 @@
           .row.mb-5
             .col-sm-6.col-lg-4.mb-4.mb-lg-0
 
-              .tarjeta--boton.color-primario.p-4(data-aos="fade-down")
+              .tarjeta--boton.color-primario.p-4.bor.sombra(data-aos="fade-down")
                 .row.justify-content-center.mb-3
                   .col-9
                     figure
                       img(src='@/assets/curso/tema1/img2.svg', alt='Texto que describa la imagen')
 
-                h3.text-center Consumidor
-                p.text-center.mb-5 Persona u organización que realiza una compra.
+                h4.text-center Consumidor
+                p.mb-5 Persona u organización que realiza una compra.
             .col-sm-6.col-lg-4.mb-4.mb-lg-0
 
-              .tarjeta--boton.color-primario.p-4(data-aos="fade-down")
+              .tarjeta--boton.color-primario.p-4.bor.sombra(data-aos="fade-down")
                 .row.justify-content-center.mb-3
                   .col-9
                     figure
                       img(src='@/assets/curso/tema1/img3.svg', alt='Texto que describa la imagen')
 
-                h3.text-center.mt-4 Usuario
-                p.text-center.mb-5 Persona quien usa o disfruta de un servicio o producto.
+                h4.text-center.mt-4 Usuario
+                p.mb-5 Persona quien usa o disfruta de un servicio o producto.
+                .row.mb-2
             .col-sm-6.col-lg-4.mb-4.mb-lg-0
 
-              .tarjeta--boton.color-primario.p-4(data-aos="fade-down")
+              .tarjeta--boton.color-primario.p-4.bor.sombra(data-aos="fade-down")
                 .row.justify-content-center.mb-3
                   .col-9
                     figure
                       img(src='@/assets/curso/tema1/img4.svg', alt='Texto que describa la imagen')
 
-                h3.text-center Cliente
-                p.text-center Persona u organización que compra habitualmente en la misma empresa y es fiel a la marca o producto.
+                h4.text-center Cliente
+                p Persona u organización que compra habitualmente en la misma empresa y es fiel a la marca o producto.
+                .row.mb-3
     .row.justify-content-center
       .col-lg-10
         p.text-center Es importante reconocer estas diferencias, con el fin de enfocar las acciones para fidelizar los consumidores y usuarios, además, que de igual forma continuar mejorando como en funcionamiento normal de una actividad empresarial.
@@ -72,7 +74,7 @@
     .row
       .col-lg-5(data-aos="fade-right")
         img(src='@/assets/curso/tema1/img7.png', alt='Texto que describa la imagen')
-      .col-lg-7
+      .col-lg-7.mt-2
         p Un buen vendedor debe conocer a la perfección los tipos de clientes que existen y sus características, lamentablemente la gran mayoría de vendedores se lanzan a la venta sin conocer, cualificar y adaptar su estrategia desconociendo las diferencias en los tipos de clientes a los que se dirige y puede caer en el error de perder el tiempo tratando de captar candidatos no cualificados.  
         p En el actual mundo empresarial y social, la mayoría de los procesos y actividades giran en torno al cliente, por lo cual es importante saberlos cualificar y tipificar, pues la gestión con cada tipo de cliente requiere de técnicas y estrategias específicas que no se pueden ignorar, se debe ser consciente de que se está asistiendo al desarrollo de un nuevo modelo de gestión.
     p.mt-5 A continuación, se presentan en el recurso de aprendizaje los diferentes tipos de clientes con sus definiciones:

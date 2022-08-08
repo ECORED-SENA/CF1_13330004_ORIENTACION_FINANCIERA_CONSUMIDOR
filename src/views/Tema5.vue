@@ -17,6 +17,7 @@
             .bloque-texto-g__texto.p-4
               p.mb-0 A partir el año 2012, el Ministerio de Trabajo renovó la denominación del término salud ocupacional a seguridad y salud en el trabajo, debido a esto los empleados y empleadores deben acoplarse a esta novedad en cuanto al cambio de la terminología legal.
           p.mt-4 Anteriormente, este término salud ocupacional se centraba en la salud del trabajador, pero con esta novedad se complementan dos factores importantes: la salud y la seguridad del empleado que aplica desde el punto de vista el desarrollo de las labores estipuladas en su trabajo.
+      separador
       #t_5_1.titulo-segundo.color-acento-contenido
         h2 5.1  Marco normativo    
       .row
@@ -27,15 +28,15 @@
 
             .col-lg-3
               img(src='@/assets/curso/tema5/img3.png' alt='AvatarTop')
-          p A continuación, se relacionan algunas normas de carácter obligatorio en el sistema laboral, donde se han dado avances significativos en materia de seguridad en el ejercicio de labores determinadas, la prevención de enfermedades laborales y otros complementos que se relacionan en este contexto. Cabe resaltar que existe una amplia normatividad internacional y nacional, sin embargo, se hace alusión a las normas vigentes que han sido aprobadas que impactan directamente en la funcionalidad del sistema y por tanto son las más relevantes, sin descartar la importancia e impacto de otras normas vigentes.
+          p.mt-2 A continuación, se relacionan algunas normas de carácter obligatorio en el sistema laboral, donde se han dado avances significativos en materia de seguridad en el ejercicio de labores determinadas, la prevención de enfermedades laborales y otros complementos que se relacionan en este contexto. Cabe resaltar que existe una amplia normatividad internacional y nacional, sin embargo, se hace alusión a las normas vigentes que han sido aprobadas que impactan directamente en la funcionalidad del sistema y por tanto son las más relevantes, sin descartar la importancia e impacto de otras normas vigentes.
         .col-lg-3                          
           img(data-aos="fade-left")(src='@/assets/curso/tema5/img2.png' alt='AvatarTop')
-      h5.text-center Normatividad nacional en seguridad y salud en el trabajo.
+      h5.text-center.mt-2 Normatividad nacional en seguridad y salud en el trabajo.
     .tarjeta.tarjeta--gris.p-4.mb-5
       //- LineaTiempoC debe ir acompañado de una de una de estas clases => 
       //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
       //- text-small se usa para que los títulos sean mas pequeños
-      LineaTiempoC.color-acento-contenido(text-small)
+      LineaTiempoC.color-primario(text-small)
         .row.justify-content-center.mt-5.mb-5(titulo="2012")
           .col-md-3.mb-4.mb-md-0
             
@@ -152,9 +153,11 @@
     .row.mt-4
       .col-lg-5
         img(data-aos="fade-down")(src='@/assets/curso/tema5/img11.png', alt='Texto que describa la imagen')
-      .col-lg-7
+      .col-lg-7.mt-2
         p Así como las empresas se preocupan por el cuidado del medio ambiente, también es importante que se responsabilicen por la seguridad y salud de sus trabajadores; por tanto, estas deben planificar la manera como se puede mejorar la seguridad y salud de sus empleados; para esto es necesario identificar las acciones que se estén realizando de forma incorrecta, que se pueden cambiar en pro del bienestar de los trabajadores.  
-        p La gestión ambiental <strong><i>“es un proceso que busca prevenir, resolver, mantener y fortalecer el desarrollo sostenible, relacionado con el uso racional de los recursos, en el cual tienen participación diferentes actores como la comunidad, las organizaciones y el Estado”</i></strong> (Ministerio de Ciencias, 2018, p.5), esto le permite a las empresas pensar que todas las actividades que realicen deben enfocarse en el desarrollo sostenible para beneficio de sus trabajadores y el medio ambiente, considerando lo que esto implica han empezado a preocuparse por el impacto que deja su industria y por ello han comenzado a generar acciones que aporten a la disminución de los efectos y además ayudan a que sus colaboradores tomen consciencia de la importancia del cuidado del medio ambiente. 
+        p La gestión ambiental 
+          span.aqwe <strong><i>“es un proceso que busca prevenir, resolver, mantener y fortalecer el desarrollo sostenible, relacionado con el uso racional de los recursos, en el cual tienen participación diferentes actores como la comunidad, las organizaciones y el Estado”</i></strong> 
+          | (Ministerio de Ciencias, 2018, p.5), esto le permite a las empresas pensar que todas las actividades que realicen deben enfocarse en el desarrollo sostenible para beneficio de sus trabajadores y el medio ambiente, considerando lo que esto implica han empezado a preocuparse por el impacto que deja su industria y por ello han comenzado a generar acciones que aporten a la disminución de los efectos y además ayudan a que sus colaboradores tomen consciencia de la importancia del cuidado del medio ambiente. 
     p.mt-4 Es así, que cobra relevancia la estructuración de la política ambiental dentro de las organizaciones, pues con esta se debe declarar el compromiso con el medio ambiente a través de tres aspectos relevantes:  
     .row.justify-content-center
       .col-lg-10
@@ -187,4 +190,6 @@ export default {
 <style lang="sass">
 .bloque-texto-c.color-secundario
   background-color: #E2E4E9
+.tarjeta--gris
+  background-color: #E5EBF0
 </style>
