@@ -23,7 +23,7 @@
             img(data-aos="fade-left")(src='@/assets/curso/tema4/img3.png', alt='Texto que describa la imagen')
         p.mt-2 Existen riesgos naturales que provienen de la actividad empresarial y, por otro lado, hay riesgos inapreciables, por lo que el riesgo es considerado como: 
           span.aqwe <strong>cualquier elemento que pueda ocasionar inseguridad, incertidumbre o duda dentro de la organización,</strong> 
-          | por lo tanto, la administración de riesgos es un proceso cuya finalidad es reducir al máximo estos factores negativos como lo es la inseguridad, incertidumbre o duda, con el propósito de alcanzar un margen de equilibrio entre la rentabilidad, los objetivos de crecimiento y riesgos identificados que se asocian a la actividad.
+          |  por lo tanto, la administración de riesgos es un proceso cuya finalidad es reducir al máximo estos factores negativos como lo es la inseguridad, incertidumbre o duda, con el propósito de alcanzar un margen de equilibrio entre la rentabilidad, los objetivos de crecimiento y riesgos identificados que se asocian a la actividad.
       .col-lg-3
         img(data-aos="fade-left")(src='@/assets/curso/tema4/img2.png', alt='Texto que describa la imagen')
     separador
@@ -39,7 +39,7 @@
           p La administración de riesgos, precisamente, permite a la organización persuadir y actuar en la prevención de los riesgos identificados, incorporando conocimiento y comprensión, identificando los recursos necesarios y movilizando energía para alcanzar los objetivos propuestos. Sin embargo, una adecuada gestión de riesgos debe tener en cuenta las medidas y controles que se deben implementar para la detección temprana de las amenazas y la implementación de mecanismos o protocolos de corrección en el momento de materializarse.
           p Seguidamente se identifican algunos los beneficios que provienen de la administración de riesgos que se recomienda aplicar en una empresa:  
           h4.text-center.ca1 Los beneficios de la administración de riesgos
-          #carouselExampleIndicators.carousel.slide(data-bs-ride='carousel')(data-aos="fade-down-left")
+          #carouselExampleIndicators.carousel.slide(data-bs-ride='carousel')
             .carousel-indicators
               button.active(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='0' aria-current='true' aria-label='Slide 1')
               button(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='1' aria-label='Slide 2')
@@ -86,53 +86,53 @@
         .col-lg-5.mt-5
           p Un método importante en la evaluación es la existencia de elementos o herramientas que sirven de prevención, como lo son programas de protección o medidas de seguridad. Por ejemplo, <strong>a continuación, se establecerán algunas medidas de prevención de riesgos:</strong>
         .col-lg-7.mt-0
-          SlyderF.mt-0.p-4(columnas="col-lg-6 col-xl-6")
-            .tarjeta.color-acento-botones.p-4.sombra
+          SlyderF.mt-0(columnas="col-lg-6 col-xl-6")
+            .tarjeta.color-acento-botones.p-2.sombra
               .row.justify-content-center.mb-3
                 .col-5
                   img(src='@/assets/curso/tema4/1.svg' alt='AvatarTop')
               p.text-center.mt-4.mb-5  Inspecciones físicas en las áreas de trabajo que realizan periódicamente. 
 
-            .tarjeta.color-acento-botones.p-4.sombra
+            .tarjeta.color-acento-botones.p-2.sombra
               .row.justify-content-center.mb-3
                 .col-5
                   img(src='@/assets/curso/tema4/2.svg' alt='AvatarTop')
               p.text-center.mt-4.mb-4  Existencia de protocolos de servicios generales como son el mantenimiento del orden y limpieza.
-            .tarjeta.color-acento-botones.p-4.sombra
+            .tarjeta.color-acento-botones.p-2.sombra
               .row.justify-content-center.mb-3
                 .col-5
                   img(src='@/assets/curso/tema4/3.svg' alt='AvatarTop')
               p.text-center.mt-4.mb-5  Protección requerida y reglamentaria contra incendios, debe estar actualizada.
-            .tarjeta.color-acento-botones.p-4.sombra
+            .tarjeta.color-acento-botones.p-2.sombra
               .row.justify-content-center.mb-3
                 .col-5
                   img(src='@/assets/curso/tema4/4.svg' alt='AvatarTop')
-              p.text-center.mt-4.mb-4  Manuales en los procesos de producción, como el buen manejo de maquinarias y equipos.
-            .tarjeta.color-acento-botones.p-4.sombra
+              p.text-center.mt-4.mb-5  Manuales en los procesos de producción, como el buen manejo de maquinarias y equipos.
+            .tarjeta.color-acento-botones.p-2.sombra
               .row.justify-content-center.mb-5
                 .col-5
                   img(src='@/assets/curso/tema4/5.svg' alt='AvatarTop')
               p.text-center.mt-4.mb-5  Áreas Jurídicas de revisión de contratación.
-            .tarjeta.color-acento-botones.p-4.sombra
+            .tarjeta.color-acento-botones.p-2.sombra
               .row.justify-content-center.mb-3
                 .col-5
                   img(src='@/assets/curso/tema4/6.svg' alt='AvatarTop')
               p.text-center.mt-4.mb-4  Controles cruzados de compras, teniendo en cuenta que se debe hacer seguimiento a los inventarios.
-            .tarjeta.color-acento-botones.p-4.sombra
+            .tarjeta.color-acento-botones.p-2.sombra
               .row.justify-content-center.mb-3
                 .col-5
                   img(src='@/assets/curso/tema4/7.svg' alt='AvatarTop')
               p.text-center.mt-4.mb-4  Mecanismos de eliminación con respecto a la prevención de malas conductas como lo son la corrupción y el soborno.
-            .tarjeta.color-acento-botones.p-4.sombra
+            .tarjeta.color-acento-botones.p-2.sombra
               .row.justify-content-center.mb-5
                 .col-5
                   img(src='@/assets/curso/tema4/8.svg' alt='AvatarTop')
               p.text-center.mt-4.mb-5  Existencia de manuales de procedimientos.
-            .tarjeta.color-acento-botones.p-4.sombra
+            .tarjeta.color-acento-botones.p-2.sombra
               .row.justify-content-center.mb-3
                 .col-5
                   img(src='@/assets/curso/tema4/9.svg' alt='AvatarTop')
-              p.text-center.mt-4.mb-2  Adquisición de seguros como son laborales, de daños, responsabilidad, eventos naturales o de otro riesgo que se determine particularmente.
+              p.text-center.mt-4.mb-0  Adquisición de seguros como son laborales, de daños, responsabilidad, eventos naturales o de otro riesgo que se determine particularmente.
            
 </template>
 
@@ -157,4 +157,14 @@ export default {
 <style lang="sass">
 .tarjeta.color-acento-botones
   background-color:#FFFFFF
+.carousel
+  background-image: url("../assets/curso/fondo.png") !important
+  background-repeat: no-repeat
+  padding-left: 75px
+  padding-right: 75px
+.slyder-f__slyde.col-lg-6.col-xl-6
+  padding-top: calc(var(--bs-gutter-x)/ 2)
+  padding-left: 20px
+  padding-right: 20px
+  padding-bottom: calc(var(--bs-gutter-x)/ 2)
 </style>

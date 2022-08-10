@@ -27,7 +27,7 @@
                       img(src='@/assets/curso/tema1/img2.svg', alt='Texto que describa la imagen')
 
                 h4.text-center Consumidor
-                p.mb-5 Persona u organización que realiza una compra.
+                p.mb-5.text-center Persona u organización que realiza una compra.
             .col-sm-6.col-lg-4.mb-4.mb-lg-0
 
               .tarjeta--boton.color-primario.p-4.bor.sombra(data-aos="fade-down")
@@ -37,7 +37,7 @@
                       img(src='@/assets/curso/tema1/img3.svg', alt='Texto que describa la imagen')
 
                 h4.text-center.mt-4 Usuario
-                p.mb-5 Persona quien usa o disfruta de un servicio o producto.
+                p.mb-5.text-center Persona quien usa o disfruta de un servicio o producto.
                 .row.mb-2
             .col-sm-6.col-lg-4.mb-4.mb-lg-0
 
@@ -48,11 +48,11 @@
                       img(src='@/assets/curso/tema1/img4.svg', alt='Texto que describa la imagen')
 
                 h4.text-center Cliente
-                p Persona u organización que compra habitualmente en la misma empresa y es fiel a la marca o producto.
+                p.text-center Persona u organización que compra habitualmente en la misma empresa y es fiel a la marca o producto.
                 .row.mb-3
     .row.justify-content-center
       .col-lg-10
-        p.text-center Es importante reconocer estas diferencias, con el fin de enfocar las acciones para fidelizar los consumidores y usuarios, además, que de igual forma continuar mejorando como en funcionamiento normal de una actividad empresarial.
+        p Es importante reconocer estas diferencias, con el fin de enfocar las acciones para fidelizar los consumidores y usuarios, además, que de igual forma continuar mejorando como en funcionamiento normal de una actividad empresarial.
     separador
     #t_1_1.titulo-segundo.color-acento-contenido
       h2 1.1  Definiciones
@@ -128,7 +128,9 @@
     p Cada persona es un mundo diverso, único e irrepetible, sin embargo, para que las organizaciones puedan caracterizar a sus clientes, se deben dividir en grupos, sectores o incluso por afinidades, con el fin de focalizar su estrategia, analizando las características según su comportamiento o receptividad, las cuales se presentan en el siguiente recurso de aprendizaje:
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.color-acento-contenido.p-4
-        h5.text-center.mb-0 Según su comportamiento
+        .col-lg-12
+          .row.coloraq
+            h5.text-center.mb-0 Según su comportamiento
 
         .row.justify-content-center.mb-3
           .col-11.mt-5
@@ -137,7 +139,9 @@
         p.text-center Tiene muchas dudas y no sabe que comprar.
       
       .tarjeta.color-acento-contenido.p-4
-        h5.text-center.mb-3 Según su comportamiento
+        .col-lg-12
+          .row.coloraq
+            h5.text-center.mb-3 Según su comportamiento
 
         .row.justify-content-center.mb-3
           .col-11
@@ -146,7 +150,9 @@
         p.text-center.mb-4 Quién se cree más que el vendedor.
 
       .tarjeta.color-acento-contenido.p-4
-        h5.text-center.mb-0 Según su comportamiento
+        .col-lg-12
+          .row.coloraq
+            h5.text-center.mb-0 Según su comportamiento
 
         .row.justify-content-center.mb-4
           .col-9.mt-4
@@ -154,7 +160,9 @@
         h5.text-center.mb-0.mt-4 Ocupado
         p.text-center.mb-4 Realiza varias cosas mientras realiza la compra.
       .tarjeta.color-acento-contenido.p-4
-        h5.text-center.mb-0 Según su comportamiento
+        .col-lg-12
+          .row.coloraq      
+            h5.text-center.mb-0 Según su comportamiento
 
         .row.justify-content-center.mb-4
           .col-7.mt-4
@@ -162,7 +170,9 @@
         h5.text-center.mb-0.mt-4 Amistoso
         p.text-center Quién normalmente se encuentra receptivo y pacifico.
       .tarjeta.color-acento-contenido.p-4
-        h5.text-center.mb-0 Según su comportamiento
+        .col-lg-12
+          .row.coloraq      
+            h5.text-center.mb-0 Según su comportamiento
 
         .row.justify-content-center.mb-4
           .col-9.mt-4
@@ -171,7 +181,9 @@
 
         p.text-center Quién utiliza la lástima para dominar, siempre se lamenta.
       .tarjeta.color-acento-contenido.p-4
-        h5.text-center.mb-0 Según su comportamiento
+        .col-lg-12
+          .row.coloraq      
+            h5.text-center.mb-0 Según su comportamiento
 
         .row.justify-content-center.mb-4
           .col-11.mt-4
@@ -180,7 +192,9 @@
 
         p.text-center Quién nunca tiene tiempo, todo es apurado.
       .tarjeta.color-acento-contenido.p-4
-        h5.text-center.mb-0 Según su comportamiento
+        .col-lg-12
+          .row.coloraq      
+            h5.text-center.mb-0 Según su comportamiento
 
         .row.justify-content-center.mb-4
           .col-9.mt-4
@@ -189,7 +203,9 @@
 
         p.text-center Quién necesita obtener algo, siempre quiere ganar.
       .tarjeta.color-acento-contenido.p-4
-        h5.text-center.mb-0 Según su receptividad
+        .col-lg-12
+          .row.coloraq      
+            h5.text-center.mb-0 Según su receptividad
 
         .row.justify-content-center.mb-4
           .col-7.mt-4
@@ -197,7 +213,9 @@
         h5.text-center.mb-0.mt-4 Visuales
         p.text-center Perciben sus necesidades a través de la vista.
       .tarjeta.color-acento-contenido.p-4
-        h5.text-center.mb-0 Según su receptividad
+        .col-lg-12
+          .row.coloraq
+            h5.text-center.mb-0 Según su receptividad
 
         .row.justify-content-center.mb-4
           .col-12.mt-4
@@ -205,7 +223,9 @@
         h5.text-center.mb-0.mt-4 Auditivos
         p.text-center Perciben sus necesidades a través del oído.
       .tarjeta.color-acento-contenido.p-4
-        h5.text-center.mb-0 Según su receptividad
+        .col-lg-12
+          .row.coloraq      
+            h5.text-center.mb-0 Según su receptividad
 
         .row.justify-content-center.mb-4
           .col-9.mt-4
@@ -239,7 +259,7 @@ export default {
 .tarjeta.tarjeta--azul.acordion__activo
   background-color: #F9F7EC
 .tarjeta.color-acento-contenido
-  background-color: #BCE7C1
+  background-color: #E1F8E3
 .tarjeta.color-acento-contenido *
   color: #12263F
 </style>

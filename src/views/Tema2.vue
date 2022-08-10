@@ -162,7 +162,7 @@
       .col-lg-7
         p.mb-0 La entrevista puede ser de perfil, en la cual se busca el reconocimiento de la personalidad del cliente en sus declaraciones, estas pueden se pueden obtener de forma individual cuando se habla con una persona o colectiva cuando se entrevista con varias personas vinculadas a la empresa, por otro lado se puede aplicar la técnica de entrevista focalizada en un tema específico que requiere gran dominio o conocimiento.
         .row.mt-1
-        .row.color5.p-2.mt-3   
+        .row.color5.p-2.mt-0 
           p.mb-0.color55 Una entrevista se presenta para recopilar datos que permiten justificar la razón de esta, busca información y selección de los datos de interés, mediante el desarrollo se demostrará la habilidad que se cuenta para lograr con los objetivos teniendo en cuenta la organización de las preguntas, el objeto de la respuesta que queremos, y como proceso final, se debe agradecer por el tiempo y cerrar con éxito mediante la cordialidad. 
       .col-lg-5.aqw.mt-2
         img(data-aos="fade-left")(src='@/assets/curso/tema2/img17.png', alt='Texto que describa la imagen')
@@ -205,6 +205,8 @@ export default {
 .tarjeta.tarjeta--azul.p-4.mb-5.mt-5
   background-image: url("../assets/curso/fondos/fondo1.png") !important
   background-repeat: no-repeat
+  @media screen and ( max-width: 420px)
+    background-repeat: repeat
   background-position: bottom
   background-color: #D2E4DF
 .tarjeta.color-acento-botones

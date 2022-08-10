@@ -149,10 +149,10 @@
         img(data-aos="fade-right")(src='@/assets/curso/tema3/img13.png', alt='Texto que describa la imagen')  
       .col-lg-8.mt-2
         p Existen bases de datos de empresas que contienen información de los clientes y posibles prospectos con su teléfono (fijo o móvil), nombre y apellido, preferencias, perfil en redes sociales, correo electrónico, y ubicación, también se pueden almacenar datos especiales, facturación y cuantificación de trabajadores, permitiendo usar estos datos como fuente inicial para la realización de campañas de <i>marketing</i> y caracterizar los clientes, con el fin de dar a conocer los productos o servicios, mensajería masiva, informar las promociones u ofertas del negocio, establecer una lista preferencial según características que tengan beneficios con añadidura, brindar muestras gratis de un nuevo producto o servicio, invitar y convocar a eventos, reuniones y/o talleres, generar información que aumente valor en la audiencia. Actualmente en el mundo empresarial y comercial, todo tiene que estar registrado y organizado, para poder mantenerse en el ritmo competitivo.        
-    .row.mt-2
-      .col-lg-8.mt-2.bora
+    .row
+      .col-lg-8.bora.p-3
         p Las bases de datos no solo generan grandes facilidades, rapidez, oportunidades y actualización en la información, sino que aparte permiten una cantidad de funciones y mecanismos con un alto nivel de ventajas a favor, como por ejemplo, permitir el almacenamiento y la recuperación de la información necesaria en cualquier momento con base a tareas propuestas. En el contexto organizacional las bases de datos también aportan al monitoreo de los procesos de compra de clientes, a mantener el contacto con el comprador potencial, estableciendo una comunicación personalizada que le genere confianza al cliente y aplicar estrategias de <i>marketing</i> con mayor impacto.
-      .col-lg-4.mt-4
+      .col-lg-4.mt-5
         img(data-aos="fade-left")(src='@/assets/curso/tema3/img14.png', alt='Texto que describa la imagen')  
     p.mt-5 Tener informatizada la base de datos tiene varias ventajas para las empresas, a continuación, se mencionan algunas de ellas:
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
@@ -253,10 +253,10 @@
       h2 3.5  Recepción y procesamiento       
     .row
       .col-lg-3
-        img(data-aos="fade-right")(src='@/assets/curso/tema3/img26.png', alt='Texto que describa la imagen')
+        img.tam(data-aos="fade-right")(src='@/assets/curso/tema3/img26.png', alt='Texto que describa la imagen')
       .col-lg-9
         .row
-          .col-lg-4
+          .col-lg-4.mt-2
             img(src='@/assets/curso/tema3/img27.png', alt='Texto que describa la imagen')
           .col-lg-8.mt-2
             p Uno de los casos donde una empresa pierde tiempo es buscando documentos, esto perjudica la productividad de la empresa y puede transmitir una mala impresión, reflejar improvisación y falta de organización de cara al cliente o comprador, la situación se agrava en el peor de los casos, cuando los archivos se pierden o extravían, dando cuenta de la falta de implementación de protocolos de recepción al momento de organizar la documentación.
