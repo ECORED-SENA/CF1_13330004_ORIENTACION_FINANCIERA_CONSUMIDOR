@@ -217,7 +217,7 @@
             .tarjeta-flip__img
               .row.justify-content-center
                 .col-lg-7.mt-4
-                  img(src='@/assets/curso/fondos/2.svg', alt='Texto que describa la imagen')
+                  img.tam2(src='@/assets/curso/fondos/2.svg', alt='Texto que describa la imagen')
               .row.justify-content-center
                 .col-lg-8
                   h4.mt-3.text-center Archivo central
@@ -231,7 +231,7 @@
             .tarjeta-flip__img
               .row.justify-content-center
                 .col-lg-8.mt-4
-                  img(src='@/assets/curso/fondos/3.svg', alt='Texto que describa la imagen')
+                  img.tam2(src='@/assets/curso/fondos/3.svg', alt='Texto que describa la imagen')
               .row.justify-content-center
                 .col-lg-8
                   h4.mt-3.text-center Archivo histórico

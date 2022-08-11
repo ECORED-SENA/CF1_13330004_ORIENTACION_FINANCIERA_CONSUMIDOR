@@ -18,7 +18,7 @@
         .col-lg-10
           p.text-center.mt-5 Es importante reconocer la diferencia entre consumidor, usuario y cliente en una organización, los cuales se presentan en el siguiente recurso de aprendizaje:
           .row.mb-5
-            .col-sm-6.col-lg-4.mb-4.mb-lg-0
+            .col-sm-6.col-lg-4.mb-4.mb-lg-0.maqw
 
               .tarjeta--boton.color-primario.p-4.bor.sombra(data-aos="fade-down")
                 .row.justify-content-center.mb-3
@@ -28,7 +28,7 @@
 
                 h4.text-center Consumidor
                 p.mb-5.text-center Persona u organización que realiza una compra.
-            .col-sm-6.col-lg-4.mb-4.mb-lg-0
+            .col-sm-6.col-lg-4.mb-4.mb-lg-0.maqw
 
               .tarjeta--boton.color-primario.p-4.bor.sombra(data-aos="fade-down")
                 .row.justify-content-center.mb-3
@@ -39,7 +39,7 @@
                 h4.text-center.mt-4 Usuario
                 p.mb-5.text-center Persona quien usa o disfruta de un servicio o producto.
                 .row.mb-2
-            .col-sm-6.col-lg-4.mb-4.mb-lg-0
+            .col-sm-6.col-lg-4.mb-4.mb-lg-0.maqw
 
               .tarjeta--boton.color-primario.p-4.bor.sombra(data-aos="fade-down")
                 .row.justify-content-center.mb-3
@@ -130,7 +130,7 @@
       .tarjeta.color-acento-contenido.p-4
         .col-lg-12
           .row.coloraq
-            h5.text-center.mb-0 Según su comportamiento
+            h5.text-center.mt-2 Según su comportamiento
 
         .row.justify-content-center.mb-3
           .col-11.mt-5
@@ -141,18 +141,19 @@
       .tarjeta.color-acento-contenido.p-4
         .col-lg-12
           .row.coloraq
-            h5.text-center.mb-3 Según su comportamiento
+            h5.text-center.mt-2  Según su comportamiento
 
         .row.justify-content-center.mb-3
           .col-11
             img(src='@/assets/curso/tema1/img12.svg' alt='AvatarTop')
-        h5.text-center.mb-0.mt-5 Discutidor
+        .row.mt-1
+        h5.text-center.mb-0.mt-4 Discutidor
         p.text-center.mb-4 Quién se cree más que el vendedor.
-
+        .row.mb-4
       .tarjeta.color-acento-contenido.p-4
         .col-lg-12
           .row.coloraq
-            h5.text-center.mb-0 Según su comportamiento
+            h5.text-center.mt-2  Según su comportamiento
 
         .row.justify-content-center.mb-4
           .col-9.mt-4
@@ -162,7 +163,7 @@
       .tarjeta.color-acento-contenido.p-4
         .col-lg-12
           .row.coloraq      
-            h5.text-center.mb-0 Según su comportamiento
+            h5.text-center.mt-2  Según su comportamiento
 
         .row.justify-content-center.mb-4
           .col-7.mt-4
@@ -172,7 +173,7 @@
       .tarjeta.color-acento-contenido.p-4
         .col-lg-12
           .row.coloraq      
-            h5.text-center.mb-0 Según su comportamiento
+            h5.text-center.mt-2  Según su comportamiento
 
         .row.justify-content-center.mb-4
           .col-9.mt-4
@@ -183,7 +184,7 @@
       .tarjeta.color-acento-contenido.p-4
         .col-lg-12
           .row.coloraq      
-            h5.text-center.mb-0 Según su comportamiento
+            h5.text-center.mt-2   Según su comportamiento
 
         .row.justify-content-center.mb-4
           .col-11.mt-4
@@ -194,7 +195,7 @@
       .tarjeta.color-acento-contenido.p-4
         .col-lg-12
           .row.coloraq      
-            h5.text-center.mb-0 Según su comportamiento
+            h5.text-center.mt-2   Según su comportamiento
 
         .row.justify-content-center.mb-4
           .col-9.mt-4
@@ -205,7 +206,7 @@
       .tarjeta.color-acento-contenido.p-4
         .col-lg-12
           .row.coloraq      
-            h5.text-center.mb-0 Según su receptividad
+            h5.text-center.mt-2   Según su receptividad
 
         .row.justify-content-center.mb-4
           .col-7.mt-4
@@ -215,7 +216,7 @@
       .tarjeta.color-acento-contenido.p-4
         .col-lg-12
           .row.coloraq
-            h5.text-center.mb-0 Según su receptividad
+            h5.text-center.mt-2   Según su receptividad
 
         .row.justify-content-center.mb-4
           .col-12.mt-4
@@ -225,14 +226,14 @@
       .tarjeta.color-acento-contenido.p-4
         .col-lg-12
           .row.coloraq      
-            h5.text-center.mb-0 Según su receptividad
+            h5.text-center.mt-2   Según su receptividad
 
         .row.justify-content-center.mb-4
           .col-9.mt-4
             img(src='@/assets/curso/tema1/img20.svg' alt='AvatarTop')
         h5.text-center.mb-0.mt-4 Kinestésicos
         p.text-center Perciben sus necesidades a través del tacto.
-
+        .row.mb-3
 </template>
 
 <script>
@@ -262,4 +263,6 @@ export default {
   background-color: #E1F8E3
 .tarjeta.color-acento-contenido *
   color: #12263F
+.tarjeta.color-acento-contenido.p-4
+  padding-top: 0px!important
 </style>
