@@ -203,9 +203,9 @@
         h5.text-center.mb-0.mt-4 Negociador
 
         p.text-center Quién necesita obtener algo, siempre quiere ganar.
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.p-4.c2
         .col-lg-12
-          .row.coloraq      
+          .row.coloraq2      
             h5.text-center.mt-2   Según su receptividad
 
         .row.justify-content-center.mb-4
@@ -213,9 +213,9 @@
             img(src='@/assets/curso/tema1/img18.svg' alt='AvatarTop')
         h5.text-center.mb-0.mt-4 Visuales
         p.text-center Perciben sus necesidades a través de la vista.
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.p-4.c2
         .col-lg-12
-          .row.coloraq
+          .row.coloraq2
             h5.text-center.mt-2   Según su receptividad
 
         .row.justify-content-center.mb-4
@@ -223,9 +223,9 @@
             img(src='@/assets/curso/tema1/img19.svg' alt='AvatarTop')
         h5.text-center.mb-0.mt-4 Auditivos
         p.text-center Perciben sus necesidades a través del oído.
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.p-4.c2
         .col-lg-12
-          .row.coloraq      
+          .row.coloraq2      
             h5.text-center.mt-2   Según su receptividad
 
         .row.justify-content-center.mb-4
@@ -265,4 +265,6 @@ export default {
   color: #12263F
 .tarjeta.color-acento-contenido.p-4
   padding-top: 0px!important
+.tarjeta.color-acento-contenido.p-4.c2
+  background-color: #DEF7F6
 </style>

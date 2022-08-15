@@ -360,5 +360,5 @@ export default {
 .tarjeta--boton.color-primario.p-4
   background-color: #92BFB1
 .tarjeta--boton.color-primario.p-4:hover
-  background-color: rgba(146,191,1777,0.5)
+  background-color: #C8DFD8
 </style>
