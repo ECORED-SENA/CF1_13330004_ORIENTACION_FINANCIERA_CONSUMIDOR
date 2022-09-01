@@ -169,7 +169,7 @@
             img(src='@/assets/curso/tema3/img17.png', alt='Texto que describa la imagen')
         .col-md-9
           p Con las bases de datos se puede obtener y clasificar la información como método de control en las ventas. Con lo que se obtenga en las bases de datos se podrá saber cuáles son los productos más vendidos, cuáles son los que no gustan o satisfacen necesidades, los más consultados y los más vendidos dependiendo algún periodo determinado del año.
-      .row(titulo="Control de ventas")
+      .row(titulo="Reducción de errores")
         .col-md-3.mb-4.mb-md-0
           figure
             img(src='@/assets/curso/tema3/img18.png', alt='Texto que describa la imagen')
@@ -284,7 +284,7 @@
               img(data-aos="fade-right")(src='@/assets/curso/tema3/img28.svg', alt='Texto que describa la imagen')
           
         h5.text-center Mejora la organización
-        p Tener conocimiento que los documentos están debidamente guardados y que son fáciles de encontrar, permite que las diversas labores se concentren en aquello que realmente le importa a la empresa, minimiza las preocupaciones en medio de los problemas del día a día. Pero no sólo es eso, garantiza que se mantengan los procesos organizados creando una política de responsabilidad interna.
+        p Tener conocimiento que los documentos están debidamente guardados y que son fáciles de encontrar, permite que las diversas labores se concentren en aquello que realmente le importa a la empresa, minimiza las preocupaciones en medio de los problemas del día a día. Pero no solo es eso, garantiza que se mantengan los procesos organizados creando una política de responsabilidad interna.
 
       .col-md.tarjeta.color-primario.p-5.a2
         .row.justify-content-center.mb-4
@@ -293,7 +293,7 @@
               img(data-aos="fade-right")(src='@/assets/curso/tema3/img29.svg', alt='Texto que describa la imagen')
           
         h5.text-center Profesionalismo
-        p Sólo quién tuvo una experiencia sobre dejar esperando en la fila a un cliente o con vergüenza ante un comprador, sabe dar una explicación qué tanto perjudicó directamente la imagen al extraviar un documento o al demostrar la dificultad para encontrarlo. Mejorar estos aspectos demuestra profesionalismo.
+        p Solo quién tuvo una experiencia sobre dejar esperando en la fila a un cliente o con vergüenza ante un comprador, sabe dar una explicación qué tanto perjudicó directamente la imagen al extraviar un documento o al demostrar la dificultad para encontrarlo. Mejorar estos aspectos demuestra profesionalismo.
 
       .col-md.tarjeta.color-primario.p-5.a3
         .row.justify-content-center.mb-4

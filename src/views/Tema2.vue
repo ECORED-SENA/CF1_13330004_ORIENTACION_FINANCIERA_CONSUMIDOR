@@ -10,7 +10,7 @@
       .col-lg-5
         img(data-aos="fade-down")(src='@/assets/curso/tema2/img1.png', alt='Texto que describa la imagen')
       .col-lg-7
-        p.mt-3 Vender es una habilidad que se puede aprender para la vida, las técnicas de ventas bien aplicadas van a mejorar la calidad de vida a corto plazo, con un efecto directo en el ámbito financiero, lo primero que se debe aprender es saber cómo venderse a sí mismo, cómo presentar sus habilidades y conocimientos, si se domina las técnicas de ventas nunca se rechazará sin importar quién sea o cual sea la historia particular. 
+        p.mt-3 Vender es una habilidad que se puede aprender para la vida, las técnicas de ventas bien aplicadas van a mejorar la calidad de vida a corto plazo, con un efecto directo en el ámbito financiero, lo primero que se debe aprender es saber cómo venderse a sí mismo, cómo presentar sus habilidades y conocimientos, si se domina las técnicas de ventas nunca se rechazará sin importar quién sea o cuál sea la historia particular. 
         .row.color3.p-2.mt-2
           p.mb-0 La clave es ser diferente a los demás, reinventarse y descubrir primeramente las fortalezas y cualidades que destacan, explotar el talento en la atención al cliente y reformar lo que no sirve o lo que se cree que no aporta para el desarrollo de esta habilidad.
         p.mt-4 Para esto es necesario conocer las reglas y técnicas que se aplican para ser un vendedor ideal, las cuales se presentan a continuación:
@@ -27,7 +27,7 @@
         .row.justify-content-center
           .col-md-5.mb-4.mb-md-0.mt-4
             h4 Preguntas honestas
-            p.mb-0.mt-4 Para obtener más información sobre las necesidades de los clientes y como realmente solucionar un problema debes sentirse cómodo al hacer preguntas abiertas sin ser agresivos, se recomienda practicar con personas con las que se sienta a gusto, explica tu negocio preferiblemente a los amigos y familiares, anímalos hacer preguntas específicas sobre cualquier aspecto sobre su propuesta de negocio, analiza los pro o los contra que comentan, cuanta más práctica tengas, mejor preparados estarás para realizar ajustes oportunos.
+            p.mb-0.mt-4 Para obtener más información sobre las necesidades de los clientes y cómo realmente solucionar un problema debes sentirse cómodo al hacer preguntas abiertas sin ser agresivos, se recomienda practicar con personas con las que se sienta a gusto, explica tu negocio preferiblemente a los amigos y familiares, anímalos hacer preguntas específicas sobre cualquier aspecto sobre su propuesta de negocio, analiza los pro o los contra que comentan, cuanta más práctica tengas, mejor preparados estarás para realizar ajustes oportunos.
           .col-md-6.mt-4
             figure
               img(src='@/assets/curso/tema2/img3.png', alt='Texto que describa la imagen')
@@ -41,7 +41,7 @@
         .row.justify-content-center
           .col-md-5.mb-4.mb-md-0.mt-4
             h4 Actualización
-            p.mt-4 Ofertar productos o servicios que están acorde a la modernización, que es el más utilizado, el más optimo, el más avanzado, el de mayor crecimiento, el que más se vende, ya que con estas afirmaciones convencemos que lo que estamos ofreciendo es excelente, calificado de calidad solo por el hecho de que está en altos niveles de venta. 
+            p.mt-4 Ofertar productos o servicios que están acorde a la modernización, que es el más utilizado, el más óptimo, el más avanzado, el de mayor crecimiento, el que más se vende, ya que con estas afirmaciones convencemos que lo que estamos ofreciendo es excelente, calificado de calidad solo por el hecho de que está en altos niveles de venta. 
             p Los clientes suelen pedir opiniones o sugerencias a las personas más allegadas antes de adquirir un servicio o producto, por esto, es de importancia estas opiniones que casi siempre apuntan hacia lo que está sonando más en la actualidad.
           .col-md-6.mt-4
             figure
@@ -64,7 +64,7 @@
 
         .col-lg-7.mt-2
           p Es importante realizar una excelente entrevista comercial ya que esta conlleva varios filtros o etapas hasta llegar al punto de que esta sea aceptada, a consecuencia de esto se debe moldear una preparación previamente que marque la diferencia con el propósito de obtener excelentes resultados. Se debe recordar que la improvisación no siempre es positiva, muchas veces esto demuestra desconocimiento o bajo interés para brindar alternativas de solución para la empresa; por esto es necesaria la preparación, planeación y práctica, con el fin de lograr o finiquitar la negociación deseada. 
-          p A continuación, se presentan algunos los parámetros que ayudan a cumplir una entrevista comercial, con algunas recomendaciones:
+          p A continuación, se presentan los parámetros que ayudan a cumplir una entrevista comercial, con algunas recomendaciones:
       .row.justify-content-center.mt-5
         .col-lg-4.color4
           h4.text-center.mt-1 Parámetros de una entrevista comercial
@@ -122,7 +122,7 @@
               figure
                 img(src='@/assets/curso/tema2/img12.png', alt='Texto que describa la imagen')
             .col-md-8
-              p.mt-4 La práctica hace al maestro, un día antes ensaya varias veces como presentar la  propuesta, buscando reflejar seguridad,  porque finalmente esto es lo que va a evaluar el cliente. Si es posible grabarse haciendo la propuesta, para luego analizar la forma como se presenta el producto o servicio, la postura corporal, los además, gestos, muletillas,  obviamente sin llegar a los límites de la crítica sino desde una mirada más bien constructiva.
+              p.mt-4 La práctica hace al maestro, un día antes ensaya varias veces como presentar la  propuesta, buscando reflejar seguridad,  porque finalmente esto es lo que va a evaluar el cliente. Si es posible grabarse haciendo la propuesta, para luego analizar la forma como se presenta el producto o servicio, la postura corporal, los ademanes, gestos, muletillas,  obviamente sin llegar a los límites de la crítica sino desde una mirada más bien constructiva.
           .row(numero="4" titulo="Recrear la entrevista")
             .col-md-4.mb-4.mb-md-0
               figure
@@ -144,10 +144,10 @@
       .col-lg-8.mt-2
         p El mercado actual es dinámico y competitivo, por lo cual es necesario establecer un portafolio de ventas muy completo, es necesario concentrarse en las características de los clientes, estableciendo su capacidad financiera, si tiene autoridad, si necesita del producto o servicio o es accesible al contactarlo.
         p Es necesario indispensable, considerar si el cliente cuenta con la capacidad económica o financiera para realizar la inversión en el producto o servicio que se le ofrece, también es imprescindible reconocer si cuenta con autoridad o el rol para la toma de decisiones, identificando qué tan habilitado está el cliente para la aprobación de las negociaciones dentro de la empresa, posterior a esto es imperioso tener claro que esta empresa necesita lo que se está ofreciendo, aunque si se está en la etapa negociación, es porque previamente se detectó la necesidad, por último es necesario contar con los mecanismos de contacto y fácil comunicación, reconociendo cuáles son los medios de comunicación más frecuentes, porque de qué sirve identificar un cliente potencial si no se puede contactar.
-    p.mt-4 A continuación, se presentan algunos consejos que ayudarán a la prospectar los clientes en el proceso de ventas:
+    p.mt-4 A continuación, se presentan algunos consejos que ayudarán a prospectar los clientes en el proceso de ventas:
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/50E2sAVgx5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video
     separador
     #t_2_4.titulo-segundo.color-acento-contenido

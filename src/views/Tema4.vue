@@ -54,7 +54,7 @@
                 p Permite manejar o gestionar no solo los eventos negativos, sino toda incertidumbre que genere duda relacionada con la actividad empresarial, inclusive a riesgos identificados que desde ella provenga una oportunidad o beneficio.
               .carousel-item.p-5
                 h5 Relacionamiento
-                p Sin realizar un plan de gestión de riesgos general no podríamos actuar adecuadamente, pero sin la existencia de una administración de riesgos no habría planeación, por cual se mejora la relación entre administración y gestión de riesgos.
+                p Sin realizar un plan de gestión de riesgos general no podríamos actuar adecuadamente, pero sin la existencia de una administración de riesgos no habría planeación, por lo cual se mejora la relación entre administración y gestión de riesgos.
               .carousel-item.p-5
                 h5 Prevención
                 p La administración de riesgos debe realizar un análisis pertinente en todas las situaciones que generen incertidumbre en la organización y esta encomienda o recomienda la instrumentación de planes de impacto y realizar gestión de las herramientas necesarias y los recursos de prevención.

@@ -237,10 +237,10 @@ export default {
     {
       termino: 'Cliente',
       significado:
-        'Persona u empresa que pasa de ser usuario o comprador para satisfacer las necesidades realizando compras frecuentes.',
+        'Persona o empresa que pasa de ser usuario o comprador para satisfacer las necesidades realizando compras frecuentes.',
     },
     {
-      termino: 'Consumidor ',
+      termino: 'Consumidor',
       significado:
         'Persona u empresa que compra productos o servicios para proveer sus necesidades cuando lo requiera.',
     },
@@ -250,7 +250,7 @@ export default {
         'Persona u empresa que contrata por medio de cualquier modalidad a un trabajador para realizar alguna labor bajo un manual de funciones.',
     },
     {
-      termino: 'SGSST ',
+      termino: 'SGSST',
       significado: 'Sistema de gestión de seguridad y salud en el trabajo.',
     },
     {
@@ -307,7 +307,7 @@ export default {
     {
       tema: '5.  Normas de seguridad y salud en el trabajo',
       referencia:
-        'Rosal López, G. A. Perea, J. A. y Oviedo, J. A. (2020). Avances y tendencias de la seguridad y salud en el trabajo avances. Corporación Universitaria Minuto de Dios. ',
+        'Rosal López, G. A. Perea, J. A. y Oviedo, J. A. (2020). Avances y tendencias de la seguridad y salud en el trabajo. Corporación Universitaria Minuto de Dios. ',
       tipo: 'Libro',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/198384?page=1',
@@ -358,41 +358,85 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: ['Sofía Suarez Suarez'],
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: ['Daniel Polanco'],
+        cargo: 'Validación diseño web',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Sergio Mauricio Valencia Martínez',
         cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Andrea Botello',
+        cargo: 'Validación de Maquetación',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Luis Gabriel Urueta Alvarez',
+        cargo: 'Actividades didácticas',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Veimar Celis',
+        cargo: 'Validación Contenido',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy María Ruíz Torres',
+        cargo: 'Revisión de guión audiovisual',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'María Carolina Tamayo López',
+        cargo: 'Locución',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Ángela María Maldonado Jaime',
+        cargo: 'Ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Validación Ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Erika Viviana Sandoval Rojas',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Validación de diseño y contenido',
+        nombre: 'Laura Ximena Hurtado Villalba ',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+
+      {
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Validación audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
     ],
     gestoresRepositorio: [
-      {
-        nombre: 'Álvaro Andrés Angarita Ramirez',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
-      {
-        nombre: 'Daniel Felipe Varón Molina',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',

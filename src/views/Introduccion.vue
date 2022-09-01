@@ -11,7 +11,7 @@
     p En este componente de formación se abordarán los conceptos básicos que permitirán identificar la evaluación del cliente, técnicas de venta, gestión de la información, normas de seguridad y salud en el trabajo.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Kuv4oG2BcN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video
     
 

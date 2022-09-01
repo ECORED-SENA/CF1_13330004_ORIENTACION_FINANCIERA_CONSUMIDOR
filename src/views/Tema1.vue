@@ -65,7 +65,7 @@
             img(src='@/assets/curso/tema1/img6.png', alt='Texto que describa la imagen')
         .row.color1.p-2.mt-2
           p.mb-0 Es importante analizar el comportamiento de la persona natural o jurídica que se convierte inicialmente en un comprador de productos o servicios, pues este reúne una serie de cualidades que lo hace más propenso a interesarse por una marca, producto, servicio o empresa determinada, por esto, reconocer las cualidades e intereses de los consumidores es primordial para la toma de decisiones y la generación de estrategias con el fin de conservarlo, pues de una u otra forma aporta a la oportunidad crecimiento económico de la empresa y el desarrollo a corto, mediano y largo plazo.
-        p.mt-4 Los productos o servicios deben ser desarrollados con base en un problema o necesidad que requiera una alternativa de solución y el resarcimiento del inconveniente, por lo cual la persona natural o jurídica estaría dispuesta a invertir y contando con una solvencia económica, demostrar que puede pagar los precios ofertados, y si se lograr resolver el problema o suplir la necesidad este podría convertirse en cliente prontamente.    
+        p.mt-4 Los productos o servicios deben ser desarrollados con base en un problema o necesidad que requiera una alternativa de solución y el resarcimiento del inconveniente, por lo cual la persona natural o jurídica estaría dispuesta a invertir y contando con una solvencia económica, demostrar que puede pagar los precios ofertados, y si se logra resolver el problema o suplir la necesidad este podría convertirse en cliente prontamente.    
       .col-lg-3(data-aos="fade-left")
         img(src='@/assets/curso/tema1/img5.png', alt='Texto que describa la imagen')
     separador
@@ -107,7 +107,7 @@
               p <strong>Habitual:</strong>  son los que realizan compras regularmente porque están satisfechos, se deben atender de manera especial para aumentar el nivel de satisfacción, para cumplir con el objetivo que se conviertan en clientes frecuentes.
             li 
               i.fas.fa-angle-right
-              p <strong>Ocasional:</strong>   son aquellos que realizan compras de vez en cuando, realizado sus compras en periodos espaciados en el tiempo.
+              p <strong>Ocasional:</strong>   son aquellos que realizan compras de vez en cuando, realizando sus compras en periodos espaciados en el tiempo.
       .row(titulo="De acuerdo el volumen de compras")
         .col-md-3.mb-4.mb-md-0
           figure
@@ -136,7 +136,7 @@
           .col-11.mt-5
             img(src='@/assets/curso/tema1/img11.svg' alt='AvatarTop')
         h5.text-center.mb-0.mt-5 Indeciso
-        p.text-center Tiene muchas dudas y no sabe que comprar.
+        p.text-center Tiene muchas dudas y no sabe qué comprar.
       
       .tarjeta.color-acento-contenido.p-4
         .col-lg-12
@@ -148,7 +148,7 @@
             img(src='@/assets/curso/tema1/img12.svg' alt='AvatarTop')
         .row.mt-1
         h5.text-center.mb-0.mt-4 Discutidor
-        p.text-center.mb-4 Quién se cree más que el vendedor.
+        p.text-center.mb-4 Quien se cree más que el vendedor.
         .row.mb-4
       .tarjeta.color-acento-contenido.p-4
         .col-lg-12
@@ -169,7 +169,7 @@
           .col-7.mt-4
             img(src='@/assets/curso/tema1/img14.svg' alt='AvatarTop')
         h5.text-center.mb-0.mt-4 Amistoso
-        p.text-center Quién normalmente se encuentra receptivo y pacifico.
+        p.text-center Quien normalmente se encuentra receptivo y pacífico.
       .tarjeta.color-acento-contenido.p-4
         .col-lg-12
           .row.coloraq      
@@ -180,7 +180,7 @@
             img(src='@/assets/curso/tema1/img15.svg' alt='AvatarTop')
         h5.text-center.mb-0.mt-4 Lamentable
 
-        p.text-center Quién utiliza la lástima para dominar, siempre se lamenta.
+        p.text-center Quien utiliza la lástima para dominar, siempre se lamenta.
       .tarjeta.color-acento-contenido.p-4
         .col-lg-12
           .row.coloraq      
@@ -191,7 +191,7 @@
             img(src='@/assets/curso/tema1/img16.svg' alt='AvatarTop')
         h5.text-center.mb-0.mt-4 Impaciente
 
-        p.text-center Quién nunca tiene tiempo, todo es apurado.
+        p.text-center Quien nunca tiene tiempo, todo es apurado.
       .tarjeta.color-acento-contenido.p-4
         .col-lg-12
           .row.coloraq      
@@ -202,7 +202,7 @@
             img(src='@/assets/curso/tema1/img17.svg' alt='AvatarTop')
         h5.text-center.mb-0.mt-4 Negociador
 
-        p.text-center Quién necesita obtener algo, siempre quiere ganar.
+        p.text-center Quien necesita obtener algo, siempre quiere ganar.
       .tarjeta.color-acento-contenido.p-4.c2
         .col-lg-12
           .row.coloraq2      
